@@ -1,9 +1,11 @@
 ---
 
 layout: default
-title: Alexey Grigorev: CV
+title: Alexey Grigorev - CV
 
 ---
+
+
 
 ## CV
 
