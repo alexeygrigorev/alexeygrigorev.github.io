@@ -44,13 +44,13 @@ Java core, Spring, JUnit, Maven<br/>
 ### PROFESSIONAL EXPERIENCE
 
 <strong>10.2015 &mdash; ...</strong><br/>
-<strong>[Searchmetrics](http://www.dima.tu-berlin.de/)</strong>, Berlin, Germany<br/>
+<strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
 &nbsp;
 
 <strong>04.2015 &mdash; 09.2015</strong><br/>
-<strong>[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)</strong>, Berlin, Germany<br/>
+**[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
 Position: Software developer / Student research assistant<br/>
 
 <strong>Project details:</strong><br/>
