@@ -255,4 +255,8 @@ div.wrapper header center * {
     font-size:12pt;
     color:#444;
   }
+
+  .not-printable {
+    display: none;
+  }
 }
