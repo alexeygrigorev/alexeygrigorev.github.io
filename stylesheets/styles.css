@@ -182,6 +182,10 @@ footer {
   bottom:50px;
 }
 
+div.wrapper header center * {
+  margin-bottom: 0px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
