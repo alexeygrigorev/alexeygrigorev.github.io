@@ -256,7 +256,7 @@ div.wrapper header center * {
     color:#444;
   }
 
-  .not-printable {
+  .non-printable {
     display: none;
   }
 }
