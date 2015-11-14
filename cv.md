@@ -30,7 +30,7 @@ Currently I focus primarily on Data Analysis, Data Mining and Machine Learning.
 Java, Scala; R, Python (PyData stack)<br/>
 
 <strong>Large-Scale Data Processing:</strong> <br/>
-Apache Flink, Apache Spark<br/>
+Apache Flink, Apache Spark, Apache Hadoop<br/>
 
 <strong>Theory:</strong> <br/>
 Data Mining, Machine Learning; Probability and Statistics; Linear Algebra<br/>
@@ -65,11 +65,10 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark; maven, git<br/>
 
 <strong>08.2013 &mdash; 12.2014</strong><br/>
 <strong>Small Software Factory</strong> (freelance)<br/>
-Position: Machine Learning developer<br/>
+Position: Data Scientist<br/>
 
 <strong>Project details:</strong><br/>
-A series of small projects in the following areas:<br/>
-voice recognition, text processing, cluster analysis and other areas.
+A series of small projects in voice recognition, text processing, cluster analysis and other areas.
 
 <strong>Responsibilities:</strong>
 
