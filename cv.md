@@ -178,5 +178,6 @@ Specialization: English<br/>
 - [Linear Algebra - Foundations to Frontiers, edX](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x) (2015)
 - [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
 - [Calculus: Single Variable, coursera](https://www.coursera.org/course/calcsing) (2015)
+- [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
 
 
