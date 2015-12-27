@@ -13,15 +13,11 @@ title: Alexey Grigorev - CV
 - +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
 - github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
-- stackoverflow careers: [https://careers.stackoverflow.com/alexey-grigorev-125298](https://careers.stackoverflow.com/alexey-grigorev-125298)
+- stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
 
 ### Summary
 
-A data scientist with strong technical skills in software engineering backed by five years of professional experience. 
-The experience includes all aspects of development: initial use case analysis, front-end and server-side development 
-and delivering ready-to-use applications. 
-
-Currently I focus primarily on Data Analysis, Data Mining and Machine Learning.
+A data scientist with strong technical skills in software engineering.
 
 
 ### SKILLS
