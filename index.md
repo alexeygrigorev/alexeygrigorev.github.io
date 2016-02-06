@@ -18,7 +18,6 @@ I'm an [Erasmus Mundus IT4BI](http://it4bi.univ-tours.fr/) alumni. If you came h
 
 - [My CV](/cv)
 - alexey.s.grigoriev [@] gmail.com
-- +49 177 490 5706
 
 Profiles:
 
