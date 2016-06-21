@@ -89,7 +89,6 @@ Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel
 <strong>[UBS](http://www.ubs.com/)</strong>, Krakow, Poland<br/>
 Position: Software Developer (Java/Spring)<br/>
 
-&nbsp;
 
 <strong>08.2011 &mdash; 05.2012</strong><br/>
 <strong>[Intech](http://intech-global.com/)</strong>, Nizhniy Novgorod, Russia<br/>
