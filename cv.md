@@ -43,6 +43,10 @@ Java core, Spring, JUnit, Maven<br/>
 <strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
+<strong>Technologies:</strong><br/>
+Lucene, Stanford NLP; Hadoop; sklearn<br/>
+
+
 &nbsp;
 
 <strong>04.2015 &mdash; 09.2015</strong><br/>
@@ -53,7 +57,7 @@ Position: Software developer / Student research assistant<br/>
 Implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
 
 <strong>Technologies:</strong><br/>
-Scala, Java; Apache Mahout, Apache Flink, Apache Spark; maven, git<br/>
+Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 
 
 
@@ -83,20 +87,7 @@ Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel
 <strong>06.2012 &mdash; 10.2013</strong><br/>
 <strong>[Luxoft](http://www.luxoft.com/)</strong>, a project for 
 <strong>[UBS](http://www.ubs.com/)</strong>, Krakow, Poland<br/>
-Position: Software Developer<br/>
-
-<strong>Project details:</strong><br/>
-A set of intermediate systems for gathering data (orders, executions, cleared trades, allocation instructions and bookings) from different markets and linking them together to form a complete picture of trading activity.
-
-<strong>Responsibilities:</strong><br/>
-
-- implementing new features and proofs of concepts;
-- refactoring existent code;
-- writing and running tests (all set of tests, from unit tests to regression);
-- conducting technical interviews;
-
-<strong>Technologies:</strong><br/>
-Java, Spring; Groovy; Spring Integration; Maven, svn; JUnit, Mockito, PowerMock. 
+Position: Software Developer (Java/Spring)<br/>
 
 &nbsp;
 
