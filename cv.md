@@ -17,12 +17,7 @@ title: Alexey Grigorev - CV
 
 ### Summary
 
-A data scientist with strong technical skills in software engineering.
-
-
-### SKILLS
-
-<strong>Key areas:</strong>
+A data scientist with strong technical skills in software engineering and experience in the following areas:
 
 - Java and JVM (Spring, Maven, JUnit)
 - Big Data Frameworks (Apache Flink, Apache Spark, Apache Hadoop)
@@ -63,17 +58,9 @@ Position: Data Scientist<br/>
 <strong>Project details:</strong><br/>
 A series of small projects in voice recognition, text processing, cluster analysis and other areas.
 
-<strong>Responsibilities:</strong>
-
-- Data preparation and analysis
-- Designing proof of concepts
-
-
 <strong>Technologies:</strong><br/>
 Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
-
-&nbsp;
 
 Other experience:
 
@@ -142,7 +129,7 @@ Other experience:
 **2013 &mdash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
 Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
 Technische Universität Berlin.<br/>
-Specialization: Distributed and Large-Scale Business Intelligence at TU Berlin, DIMA group.<br/>
+Specialization: Large-Scale Business Intelligence<br/>
 Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
 
 **2006 &mdash; 2010**, Far Eastern State Academy<br/>
@@ -154,8 +141,7 @@ Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
 Department: Foreign Languages<br/>
 Specialization: English<br/>
 
-
-#### Independent coursework highlights:
+**Independent coursework highlights:**
 
 - [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
 - [Statistics: Making Sense of Data, coursera](https://www.coursera.org/course/introstats) (2013)
