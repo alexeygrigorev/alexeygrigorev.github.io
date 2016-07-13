@@ -8,12 +8,12 @@ title: Alexey Grigorev - CV
 
 ## CV
 
-### Contact Information
-
 - +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
 - github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
 - stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
+- kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
+
 
 ### Summary
 
@@ -22,19 +22,12 @@ A data scientist with strong technical skills in software engineering.
 
 ### SKILLS
 
-<strong>Programming Languages / Technologies:</strong> <br/>
-Java, Scala; R, Python (PyData stack)<br/>
+<strong>Key areas:</strong>
 
-<strong>Large-Scale Data Processing:</strong> <br/>
-Apache Flink, Apache Spark, Apache Hadoop<br/>
-
-<strong>Theory:</strong> <br/>
-Data Mining, Machine Learning; Probability and Statistics; Linear Algebra<br/>
-
-<strong>Java related skills:</strong> <br/>
-Java core, Spring, JUnit, Maven<br/>
-
-<strong>English:</strong> Advanced (IELTS 8.0)<br/>
+- Java and JVM (Spring, Maven, JUnit)
+- Big Data Frameworks (Apache Flink, Apache Spark, Apache Hadoop)
+- Machine Learning and Data Analysis 
+- Python (numpy, sklearn)
 
 
 ### PROFESSIONAL EXPERIENCE
@@ -44,7 +37,7 @@ Java core, Spring, JUnit, Maven<br/>
 Position: Data Scientist<br/>
 
 <strong>Technologies:</strong><br/>
-Lucene, Stanford NLP; Hadoop; sklearn<br/>
+Java; Lucene, Stanford NLP; Hadoop; Python, sklearn<br/>
 
 
 &nbsp;
@@ -83,44 +76,64 @@ Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel
 
 &nbsp;
 
+Other experience:
 
-<strong>06.2012 &mdash; 10.2013</strong><br/>
-<strong>[Luxoft](http://www.luxoft.com/)</strong>, a project for 
-<strong>[UBS](http://www.ubs.com/)</strong>, Krakow, Poland<br/>
-Position: Software Developer (Java/Spring)<br/>
-
-
-<strong>08.2011 &mdash; 05.2012</strong><br/>
-<strong>[Intech](http://intech-global.com/)</strong>, Nizhniy Novgorod, Russia<br/>
-Position: Software Developer (Java/Spring)<br/>
-
-
-<strong>06.2011 &mdash; 06.2012</strong><br/>
-<strong>[JTalks.org](http://jtalks.org)</strong> (open source project)<br/>
-Position: Team Lead (Java/Spring)<br/>
-
-
-<strong>03.2011 &mdash; 08.2011</strong><br/>
-<strong>SimSim</strong> (Part time), Nizhniy Novgorod, Russia<br/>
-Position: Software Developer (Python/Django)<br/>
-
-
-<strong>12.2010 &mdash; 08.2011</strong><br/>
-<strong>Auriga Inc.</strong>, a project for <strong>Kiva Systems</strong>, Nizhniy Novgorod, Russia<br/>
-Position: Java Developer<br/>
-
-<strong>06.2010 &mdash; 09.2010</strong><br/>
-<strong>Boston University, Cognitive Neuroscience Laboratory</strong>, Boston, USA<br/>
-Position: Programmer (Experiment Design and Data Analysis)<br/>
-
-<strong>01.2010 &mdash; 05.2010</strong><br/>
-<strong>Sterh Ltd.</strong>, Birobidzhan, Russia<br/>
-Position: Programmer (C#)<br/>
-
-
-<strong>11.2007 &mdash; 12.2008</strong><br/>
-<strong>Far Eastern State Academy, Laboratory of Mathematical Simulations</strong>, Birobidzhan, Russia<br/>
-Position: Programmer (MATLAB, Fortran and Delphi)<br/>
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Company</th>
+    <th>Position</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td><strong>2012 &mdash; 2013</strong></td>
+    <td><strong><a href="http://www.ubs.com/">UBS</a></strong> via <a href="http://www.luxoft.com/">Luxoft</a></strong></td>
+    <td>Java/Spring</td>
+    <td>Poland</td>
+  </tr>
+  <tr>
+    <td><strong>2011 &mdash; 2012</strong></td>
+    <td><a href="http://intech-global.com/">Intech</a> for Tele2</td>
+    <td>Java/Spring</td>
+    <td>Russia</td>
+  </tr>
+  <tr>
+    <td><strong>2011 &mdash; 2012</strong></td>
+    <td>Open source project <a href="http://jtalks.org">JTalks.org</a></td>
+    <td>Team Lead (Java)</td>
+    <td>www</td>
+  </tr>
+  <tr>
+    <td><strong>2011</strong></td>
+    <td>SimSim</td>
+    <td>Python/Django (Part time)</td>
+    <td>Russia</td>
+  </tr>
+  <tr>
+    <td><strong>2010 &mdash; 2011</strong></td>
+    <td><a href="https://www.amazonrobotics.com/">Amazon Robotics</a> via <a href="https://www.auriga.com/">Auriga</a></td>
+    <td>Java</td>
+    <td>Russia</td>
+  </tr>
+  <tr>
+    <td><strong>2010</strong></td>
+    <td>Boston University, Cognitive Neuroscience Lab.</td>
+    <td>Experiment design</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td><strong>2010</strong></td>
+    <td>Sterh Ltd.</td>
+    <td>C#</td>
+    <td>Russia</td>
+  </tr>
+  <tr>
+    <td><strong>2007 &mdash; 2008</strong></td>
+    <td>FESA, Mathematical Simulations Lab.</td>
+    <td>MATLAB, Fortran, Delphi</td>
+    <td>Russia</td>
+  </tr>
+</table>
 
 
 ### EDUCATION
@@ -129,7 +142,7 @@ Position: Programmer (MATLAB, Fortran and Delphi)<br/>
 Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
 Technische Universität Berlin.<br/>
 Specialization: Distributed and Large-Scale Business Intelligence at TU Berlin, DIMA group.<br/>
-Degree work: "Identifier namespaces in mathematical notation"<br/>
+Degree work: ["Identifier namespaces in mathematical notation"](http://arxiv.org/abs/1601.03354)<br/>
 
 **2006 &mdash; 2010**, Far Eastern State Academy<br/>
 Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
@@ -144,26 +157,16 @@ Specialization: English<br/>
 
 #### Independent Coursework
 
-- Basics of Business Intelligence, Luxoft (2012)
-- Informatica level 1 and 2 trainings, Luxoft (2012)
-- [Computing for Data Analysis, coursera](https://www.coursera.org/course/compdata) (2013)
-- [Game Theory, coursera](https://www.coursera.org/course/gametheory) (2013)
-- [Data Analysis, coursera](https://www.coursera.org/course/dataanalysis) (2013)
+MOOC highlights:
+
 - [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
-- [Web Intelligence and Big Data, coursera](https://www.coursera.org/course/bigdata) (2013)
-- [Functional Programming Principles in Scala, coursera](https://www.coursera.org/course/progfun) (2013)
 - [Statistics: Making Sense of Data, coursera](https://www.coursera.org/course/introstats) (2013)
 - [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
-- [Introduction to Data Science, coursera](https://www.coursera.org/course/datasci) (2013)
-- [Cryptography I, coursera](https://www.coursera.org/course/crypto) (2013)
 - [Discrete Optimization, coursera](https://www.coursera.org/course/optimization) (2013)
-- [Coding the Matrix: Linear Algebra through Computer Science Applications, coursera](https://www.coursera.org/course/matrix) (2014)
 - [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
 - [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
-- [Introduction to Linear Models and Matrix Algebra, edX](https://www.edx.org/course/introduction-linear-models-matrix-harvardx-ph525-2x) (2015)
-- [Linear Algebra - Foundations to Frontiers, edX](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x) (2015)
 - [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
 - [Calculus: Single Variable, coursera](https://www.coursera.org/course/calcsing) (2015)
 - [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
-
+- and 10+ others
 
