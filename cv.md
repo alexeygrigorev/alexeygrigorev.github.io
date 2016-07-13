@@ -73,7 +73,6 @@ A series of small projects in voice recognition, text processing, cluster analys
 Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
 
-
 &nbsp;
 
 Other experience:
@@ -87,7 +86,7 @@ Other experience:
   </tr>
   <tr>
     <td><strong>2012 &mdash; 2013</strong></td>
-    <td><strong><a href="http://www.ubs.com/">UBS</a></strong> via <a href="http://www.luxoft.com/">Luxoft</a></strong></td>
+    <td><strong><a href="http://www.ubs.com/">UBS</a></strong> via <strong><a href="http://www.luxoft.com/">Luxoft</a></strong></td>
     <td>Java/Spring</td>
     <td>Poland</td>
   </tr>
@@ -135,6 +134,8 @@ Other experience:
   </tr>
 </table>
 
+&nbsp;
+
 
 ### EDUCATION
 
@@ -142,7 +143,7 @@ Other experience:
 Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
 Technische Universität Berlin.<br/>
 Specialization: Distributed and Large-Scale Business Intelligence at TU Berlin, DIMA group.<br/>
-Degree work: ["Identifier namespaces in mathematical notation"](http://arxiv.org/abs/1601.03354)<br/>
+Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
 
 **2006 &mdash; 2010**, Far Eastern State Academy<br/>
 Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
