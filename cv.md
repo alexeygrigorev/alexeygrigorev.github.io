@@ -86,7 +86,7 @@ Other experience:
   </tr>
   <tr>
     <td><strong>2012 &mdash; 2013</strong></td>
-    <td><strong><a href="http://www.ubs.com/">UBS</a></strong> via <strong><a href="http://www.luxoft.com/">Luxoft</a></strong></td>
+    <td><a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a></td>
     <td>Java/Spring</td>
     <td>Poland</td>
   </tr>
@@ -155,10 +155,7 @@ Department: Foreign Languages<br/>
 Specialization: English<br/>
 
 
-
-#### Independent Coursework
-
-MOOC highlights:
+#### Independent coursework highlights:
 
 - [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
 - [Statistics: Making Sense of Data, coursera](https://www.coursera.org/course/introstats) (2013)
