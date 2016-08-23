@@ -166,3 +166,4 @@ Specialization: English<br/>
 - [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
 - and 10+ others
 
+<div align="right"><i>Best printed with Google Chrome</i></div>
