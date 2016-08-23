@@ -20,6 +20,7 @@ title: Alexey Grigorev - CV
 A data scientist with strong technical skills in software engineering and experience in the following areas:
 
 - Machine Learning and Data Analysis 
+- Information Retrieval and Natural Language Processing
 - Java and JVM (Spring, Maven, JUnit)
 - Python (numpy, sklearn)
 
@@ -36,7 +37,7 @@ Position: Data Scientist<br/>
 - Compound term extraction
 
 <strong>Technologies:</strong><br/>
-Java; Lucene, Stanford NLP; Hadoop; Python, sklearn, xgboost<br/>
+Java; Lucene, Stanford NLP; Hadoop; Python, sklearn<br/>
 
 
 &nbsp;
@@ -59,17 +60,17 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 <strong>Small Software Factory</strong> (freelance)<br/>
 Position: Data Scientist<br/>
 
-<strong>Projects:</strong><br/>
-- Voice recognition for controlling an androind smartphone
-- Structured information extraction (menus, addressess and similar)
-- Hierarchy learning 
+<strong>Projects:</strong>
+- Voice recognition for controlling a smartphone
+- Structured information extraction (menus, addressess, etc)
+- Schema and hierarchy learning
 - Segmentation and accident prediction for taxi drivers
 - And others
 
-
-<strong>Technologies:</strong><br/>
+<strong>Technologies:</strong>
 Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
+&nbsp;
 
 Other experience:
 
