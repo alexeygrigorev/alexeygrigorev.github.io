@@ -24,6 +24,7 @@ A data scientist with strong technical skills in software engineering and experi
 - Java and JVM (Spring, Maven, JUnit)
 - Python (numpy, sklearn)
 
+&nbsp;
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -32,6 +33,7 @@ A data scientist with strong technical skills in software engineering and experi
 Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
+
 - Terms suggestion for a given topic
 - Optimization of a web site link structure
 - Compound term extraction
@@ -53,7 +55,6 @@ Implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache F
 Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 
 
-
 &nbsp;
 
 <strong>08.2013 &mdash; 12.2014</strong><br/>
@@ -61,18 +62,18 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
+
 - Voice recognition for controlling a smartphone
 - Structured information extraction (menus, addressess, etc)
 - Schema and hierarchy learning
 - Segmentation and accident prediction for taxi drivers
 - And others
 
-<strong>Technologies:</strong>
+<strong>Technologies:</strong><br/>
 Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
 &nbsp;
 
-Other experience:
 
 <table>
   <tr>
@@ -150,6 +151,7 @@ Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
 **2006 &mdash; 2011**, Far Eastern State Academy<br/>
 Department: Foreign Languages<br/>
 Specialization: English<br/>
+
 
 **Independent coursework highlights:**
 
