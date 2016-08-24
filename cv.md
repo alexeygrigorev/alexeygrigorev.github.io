@@ -15,7 +15,7 @@ title: Alexey Grigorev - CV
 - kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
 
 
-### Summary
+### SUMMARY
 
 A data scientist with strong technical skills in software engineering and experience in the following areas:
 
@@ -64,7 +64,7 @@ Position: Data Scientist<br/>
 <strong>Projects:</strong>
 
 - Voice recognition for controlling a smartphone
-- Structured information extraction (menus, addressess, etc)
+- Structured information extraction (menus, addresses, etc)
 - Schema and hierarchy learning
 - Segmentation and accident prediction for taxi drivers
 - And others
@@ -74,6 +74,7 @@ Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel
 
 &nbsp;
 
+Summary of prior experience:
 
 <table>
   <tr>
@@ -156,14 +157,49 @@ Specialization: English<br/>
 **Independent coursework highlights:**
 
 - [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
-- [Statistics: Making Sense of Data, coursera](https://www.coursera.org/course/introstats) (2013)
 - [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
-- [Discrete Optimization, coursera](https://www.coursera.org/course/optimization) (2013)
 - [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
 - [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
 - [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
-- [Calculus: Single Variable, coursera](https://www.coursera.org/course/calcsing) (2015)
 - [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
 - and 10+ others
+
+&nbsp;
+
+### PROJECTS & PUBLICATIONS
+
+**Projects:**
+
+- Predicting mortality from climate data for Khabarovsk, Russia
+- Spam detection for [javatalks.ru](http://javatalks.ru/)
+- Structured Information Retrieval for a FIFA World Cup Datawarehouse
+- Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
+- `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
+
+**Competitions:**
+
+- [The Allen AI Science Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge) (top 100)
+- [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance) (top 100)
+- [Can we predict voting outcomes?](https://inclass.kaggle.com/c/can-we-predict-voting-outcomes) (top 100)
+- [ChaLearn AutoML Challenge](https://competitions.codalab.org/competitions/2321) CPU & GPU tracks (top 10)
+- [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection) (top 10)
+
+
+**Scientific publications:**
+
+- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
+
+
+**Books:**
+
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev, expected in February 2017
+
+
+**Technical reviewing:**
+
+- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier
+- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
+- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
+- and 3+ more
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
