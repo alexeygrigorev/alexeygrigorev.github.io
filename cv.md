@@ -21,8 +21,9 @@ A data scientist with strong technical skills in software engineering and experi
 
 - Machine Learning and Data Analysis 
 - Information Retrieval and Natural Language Processing
-- Java and JVM (Spring, Maven, JUnit)
 - Python (numpy, sklearn)
+- Java and JVM (Spring, Maven, JUnit)
+
 
 &nbsp;
 
@@ -34,7 +35,7 @@ Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
 
-- Terms suggestion for a given topic
+- Suggesting terms to use given a topic
 - Optimization of a web site link structure
 - Compound term extraction
 
