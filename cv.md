@@ -35,12 +35,12 @@ Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
 
-- Suggesting terms to use given a topic
+- Suggesting terms to use for a given topic
 - Optimization of a web site link structure
 - Compound term extraction
 
 <strong>Technologies:</strong><br/>
-Java; Lucene, Stanford NLP; Hadoop; Python, sklearn<br/>
+Java; Lucene, Stanford NLP; Hadoop, Spark; Python, sklearn, xgboost<br/>
 
 
 &nbsp;
@@ -184,6 +184,7 @@ Specialization: English<br/>
 - [Can we predict voting outcomes?](https://inclass.kaggle.com/c/can-we-predict-voting-outcomes) (top 100)
 - [ChaLearn AutoML Challenge](https://competitions.codalab.org/competitions/2321) CPU & GPU tracks (top 10)
 - [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection) (top 10)
+- [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
 
 
 **Scientific publications:**
