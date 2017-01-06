@@ -185,6 +185,7 @@ Specialization: English<br/>
 - [ChaLearn AutoML Challenge](https://competitions.codalab.org/competitions/2321) CPU & GPU tracks (top 10)
 - [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection) (top 10)
 - [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
+- [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
 
 
 **Scientific publications:**
