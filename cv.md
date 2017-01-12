@@ -35,9 +35,10 @@ Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
 
-- Suggesting terms to use for a given topic
-- Optimization of a web site link structure
+- Words to use recommendation system for writers 
+- Web site link structure optimization
 - Compound term extraction
+- Title generation
 
 <strong>Technologies:</strong><br/>
 Java; Lucene, Stanford NLP; Hadoop, Spark; Python, sklearn, xgboost<br/>
