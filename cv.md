@@ -21,7 +21,7 @@ A data scientist with strong technical skills in software engineering and experi
 
 - Machine Learning and Data Analysis 
 - Information Retrieval and Natural Language Processing
-- Python (numpy, sklearn)
+- Python (numpy, pandas, sklearn)
 - Java and JVM (Spring, Maven, JUnit)
 
 
@@ -35,13 +35,14 @@ Position: Data Scientist<br/>
 
 <strong>Projects:</strong>
 
-- Words to use recommendation system for writers 
+- Content Opt: Topic-aware word recommender to assist copywriters
+- Search volume correction for similar search queries
 - Web site link structure optimization
 - Compound term extraction
 - Title generation
 
 <strong>Technologies:</strong><br/>
-Java; Lucene, Stanford NLP; Hadoop, Spark; Python, sklearn, xgboost<br/>
+Java; Lucene, Stanford NLP; Hadoop, Spark; Python, pandas, sklearn, xgboost<br/>
 
 
 &nbsp;
@@ -197,7 +198,7 @@ Specialization: English<br/>
 
 **Books:**
 
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev, expected in February 2017
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev, expected in April 2017
 
 
 **Technical reviewing:**
