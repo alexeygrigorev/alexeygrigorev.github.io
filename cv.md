@@ -17,7 +17,7 @@ title: Alexey Grigorev - CV
 
 ### SUMMARY
 
-A data scientist with strong technical skills in software engineering and experience in the following areas:
+A data scientist and machine learning engineer with strong technical skills in software development and experience in the following areas:
 
 - Machine Learning and Data Analysis 
 - Information Retrieval and Natural Language Processing
@@ -42,7 +42,7 @@ Position: Data Scientist<br/>
 - Title generation
 
 <strong>Technologies:</strong><br/>
-Java; Lucene, Stanford NLP; Hadoop, Spark; Python, pandas, sklearn, xgboost<br/>
+Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 
 
 &nbsp;
