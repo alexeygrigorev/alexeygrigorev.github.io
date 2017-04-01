@@ -33,13 +33,15 @@ A data scientist and machine learning engineer with strong technical skills in s
 <strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
-<strong>Projects:</strong>
+Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I was involved in a number of projects, including:
 
 - Content Opt: Topic-aware word recommender to assist copywriters
-- Search volume correction for similar search queries
+- Search query grouping for correcting the search volume from Google Keyword Planner
 - Web site link structure optimization
 - Compound term extraction
-- Title generation
+- Template-based title generation
+- Scoring titles for clickbaitness and controversy
+- Significant ranking change detection and significant market share change detection
 
 <strong>Technologies:</strong><br/>
 Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
@@ -51,8 +53,8 @@ Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 **[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
 Position: Software developer / Student research assistant<br/>
 
-<strong>Project details:</strong><br/>
-Implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
+DIMA is a research group at TU Berlin that focuces on Big Data and Databases. At DIMA I 
+implemented Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
 
 <strong>Technologies:</strong><br/>
 Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
@@ -64,7 +66,7 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 <strong>Small Software Factory</strong> (freelance)<br/>
 Position: Data Scientist<br/>
 
-<strong>Projects:</strong>
+As a freelancer I participated on a number of projects for different customers. That included:
 
 - Voice recognition for controlling a smartphone
 - Structured information extraction (menus, addresses, etc)
@@ -73,7 +75,7 @@ Position: Data Scientist<br/>
 - And others
 
 <strong>Technologies:</strong><br/>
-Java, JavaML, libSVM, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
+Java, JavaML, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
 &nbsp;
 
