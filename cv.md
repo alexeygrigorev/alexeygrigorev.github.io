@@ -11,7 +11,7 @@ title: Alexey Grigorev - CV
 A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production, including problem identification, data collection, model creation and deployment. 
 
 
-Summary:
+**Summary:**
 
 - Machine Learning and Data Science, 4+ years
 - Software Engineering, 7+ years
@@ -20,12 +20,13 @@ Summary:
 - Experience in running production systems
 - Reseach experience in academtic settings
 - Mentoring and leadership experience
-- Book author and frequent speaker
+- Book author, technical reviewer and frequent speaker
 - Kaggle master and competition winner
+- Open source contributor
 - Python (numpy, pandas, sklearn)
 - Java (spring, maven) and Scala
 
-Contact Information:
+**Contact information and links:**
 
 - +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
