@@ -8,21 +8,30 @@ title: Alexey Grigorev - CV
 
 ## CV
 
+A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production, including problem identification, data collection, model creation and deployment. 
+
+
+Summary:
+
+- Machine Learning and Data Science, 4+ years
+- Software Engineering, 7+ years
+- Text Mining expert, 4+ years
+- Quick prototyping skills
+- Experience in running production systems
+- Reseach experience in academtic settings
+- Mentoring and leadership experience
+- Book author and frequent speaker
+- Kaggle master and competition winner
+- Python (numpy, pandas, sklearn)
+- Java (spring, maven) and Scala
+
+Contact Information:
+
 - +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
 - github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
 - stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
 - kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
-
-
-### SUMMARY
-
-A data scientist and machine learning engineer with strong technical skills in software development and experience in the following areas:
-
-- Machine Learning and Data Analysis 
-- Information Retrieval and Natural Language Processing
-- Python (numpy, pandas, sklearn)
-- Java and JVM (Spring, Maven, JUnit)
 
 
 &nbsp;
@@ -41,9 +50,10 @@ Searchmetrics is a SEO company which helps customers create better content and t
 - Compound term extraction
 - Template-based title generation
 - Scoring titles for clickbaitness and controversy
-- Significant ranking change detection and significant market share change detection
+- Significant change detection in ranking and market share
 
-<strong>Technologies:</strong><br/>
+
+Technologies:<br/>
 Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 
 
@@ -53,10 +63,10 @@ Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 **[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
 Position: Software developer / Student research assistant<br/>
 
-DIMA is a research group at TU Berlin that focuces on Big Data and Databases. At DIMA I 
-implemented Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
+DIMA is a research group at TU Berlin that focuces on Big Data and Databases. At DIMA I worked on
+implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
 
-<strong>Technologies:</strong><br/>
+Technologies:<br/>
 Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 
 
@@ -66,15 +76,16 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 <strong>Small Software Factory</strong> (freelance)<br/>
 Position: Data Scientist<br/>
 
-As a freelancer I participated on a number of projects for different customers. That included:
+As a freelancer I participated in a number of projects for different customers. That included:
 
 - Voice recognition for controlling a smartphone
 - Structured information extraction (menus, addresses, etc)
+- AutoML
 - Schema and hierarchy learning
 - Segmentation and accident prediction for taxi drivers
 - And others
 
-<strong>Technologies:</strong><br/>
+Technologies:<br/>
 Java, JavaML, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
 
 &nbsp;
@@ -126,48 +137,17 @@ Summary of prior experience:
   </tr>
   <tr>
     <td><strong>2010</strong></td>
-    <td>Sterh Ltd.</td>
+    <td>Sterh</td>
     <td>C#</td>
     <td>Russia</td>
   </tr>
   <tr>
     <td><strong>2007 &mdash; 2008</strong></td>
     <td>FESA, Mathematical Simulations Lab.</td>
-    <td>MATLAB, Fortran, Delphi</td>
+    <td>Research assistant</td>
     <td>Russia</td>
   </tr>
 </table>
-
-&nbsp;
-
-
-### EDUCATION
-
-**2013 &mdash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
-Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
-Technische Universität Berlin.<br/>
-Specialization: Large-Scale Business Intelligence<br/>
-Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
-
-**2006 &mdash; 2010**, Far Eastern State Academy<br/>
-Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
-Specialization: Information Systems and Technologies<br/>
-Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
-
-**2006 &mdash; 2011**, Far Eastern State Academy<br/>
-Department: Foreign Languages<br/>
-Specialization: English<br/>
-
-
-**Independent coursework highlights:**
-
-- [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
-- [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
-- [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
-- [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
-- [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
-- [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
-- and 10+ others
 
 &nbsp;
 
@@ -209,5 +189,36 @@ Specialization: English<br/>
 - [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
 - [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
 - and 3+ more
+
+&nbsp;
+
+### EDUCATION
+
+**2013 &mdash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
+Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
+Technische Universität Berlin.<br/>
+Specialization: Large-Scale Business Intelligence<br/>
+Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
+
+**2006 &mdash; 2010**, Far Eastern State Academy<br/>
+Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
+Specialization: Information Systems and Technologies<br/>
+Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
+
+**2006 &mdash; 2011**, Far Eastern State Academy<br/>
+Department: Foreign Languages<br/>
+Specialization: English<br/>
+
+
+**Independent coursework highlights:**
+
+- [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
+- [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
+- [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
+- [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
+- [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
+- [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
+- and 10+ others
+
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
