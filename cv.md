@@ -172,7 +172,7 @@ Summary of prior experience:
 - [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
 - [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
 - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction) (top 15)
-- [Unpossibly Instagram Challenge](http://challenges.instagram.unpossib.ly/leaderboard/) (1st place)
+- [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
 
 
 **Scientific publications:**
