@@ -46,11 +46,11 @@ Position: Data Scientist<br/>
 Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I was involved in a number of projects, including:
 
 - Content Opt: Topic-aware word recommender to assist copywriters
-- Search query grouping for correcting the search volume from Google Keyword Planner
+- Keyword grouping for correcting search volume from Keyword Planner
 - Web site link structure optimization
 - Compound term extraction
 - Template-based title generation
-- Scoring titles for clickbaitness and controversy
+- Scoring titles for "goodness", clickbaitness and controversy
 - Significant change detection in ranking and market share
 
 
@@ -172,6 +172,7 @@ Summary of prior experience:
 - [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
 - [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
 - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction) (top 15)
+- [Unpossibly Instagram Challenge](http://challenges.instagram.unpossib.ly/leaderboard/) (1st place)
 
 
 **Scientific publications:**
