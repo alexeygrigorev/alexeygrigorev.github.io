@@ -18,7 +18,7 @@ A data scientist and machine learning engineer with hands on experience and stro
 - Text Mining expert, 4+ years
 - Quick prototyping skills
 - Experience in running production systems
-- Reseach experience in academtic settings
+- Reseach experience in academic settings
 - Mentoring and leadership experience
 - Book author, technical reviewer and frequent speaker
 - Kaggle master and competition winner
