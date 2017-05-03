@@ -182,7 +182,7 @@ Summary of prior experience:
 
 **Books:**
 
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev, expected in April 2017
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev
 
 
 **Technical reviewing:**
