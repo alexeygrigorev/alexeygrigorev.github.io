@@ -39,7 +39,14 @@ A data scientist and machine learning engineer with hands on experience and stro
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>10.2015 &mdash; ...</strong><br/>
+<strong>08.2017 &mdash; ...</strong><br/>
+<strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
+Position: Data Scientist<br/>
+
+&nbsp;
+
+
+<strong>10.2015 &mdash; 07.2017</strong><br/>
 <strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
@@ -175,10 +182,10 @@ Summary of prior experience:
 - [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
 
 
-**Scientific publications:**
+**Papers:**
 
 - Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
-
+- Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
 
 **Books:**
 
