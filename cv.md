@@ -161,6 +161,25 @@ Summary of prior experience:
 
 ### PROJECTS & PUBLICATIONS
 
+**Books:**
+
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev
+
+
+**Papers:**
+
+- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
+- Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
+
+
+**Technical reviewing:**
+
+- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier
+- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
+- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
+- and 3+ more
+
+
 **Projects:**
 
 - Predicting mortality from climate data for Khabarovsk, Russia
@@ -168,6 +187,7 @@ Summary of prior experience:
 - Structured Information Retrieval for a FIFA World Cup Datawarehouse
 - Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
 - `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
+
 
 **Competitions:**
 
@@ -180,24 +200,9 @@ Summary of prior experience:
 - [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
 - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction) (top 15)
 - [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
+- [Growing Instability: Classifying Crisis Reports](https://www.datasciencechallenge.org/challenges/2/growing-instability) (top 10)
+- [Clickbait Challenge](clickbait-challenge.org) (3rd plce)
 
-
-**Papers:**
-
-- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
-- Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
-
-**Books:**
-
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev
-
-
-**Technical reviewing:**
-
-- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier
-- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
-- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
-- and 3+ more
 
 &nbsp;
 
