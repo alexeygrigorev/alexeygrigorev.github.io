@@ -58,7 +58,7 @@ Searchmetrics is a SEO company which helps customers create better content and t
 - Compound term extraction
 - Template-based title generation
 - Scoring titles for "goodness", clickbaitness and controversy
-- Significant change detection in ranking and market share
+- Significant change detection in ranking, market share and traffic
 
 
 Technologies:<br/>
@@ -89,7 +89,6 @@ As a freelancer I participated in a number of projects for different customers. 
 - Voice recognition for controlling a smartphone
 - Structured information extraction (menus, addresses, etc)
 - AutoML
-- Schema and hierarchy learning
 - Segmentation and accident prediction for taxi drivers
 - And others
 
@@ -100,8 +99,8 @@ Java, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R<br/>
 
 Summary of prior experience:
 
-* <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; JavaR Poland
-A <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java/Spring &ndash; Russia
+* <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; Java &ndash; Poland
+* <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java/Spring &ndash; Russia
 * <strong>2011 &ndash; 2012</strong>, Open source project <a href="http://jtalks.org">JTalks.org</a> &ndash; Team Lead (Java)
 * <strong>2010 &ndash; 2011</strong>, <a href="https://www.amazonrobotics.com/">Amazon Robotics</a> via <a href="https://www.auriga.com/">Auriga</a> &ndash; Java &ndash; Russia
 * <strong>2010 &ndash; 2010</strong>, Boston University, Cognitive Neuroscience Lab &ndash; Research Assistant &ndash; USA
