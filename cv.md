@@ -18,7 +18,7 @@ A data scientist and machine learning engineer with hands on experience and stro
 - Text Mining expert, 4+ years
 - Quick prototyping skills
 - Experience in running production systems
-- Reseach experience in academic settings
+- Research experience in academic settings
 - Mentoring and leadership experience
 - Book author, technical reviewer and frequent speaker
 - Kaggle master and competition winner
@@ -69,9 +69,9 @@ Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 
 <strong>04.2015 &mdash; 09.2015</strong><br/>
 **[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
-Position: Software developer / Student research assistant<br/>
+Position: Research Assistant<br/>
 
-DIMA is a research group at TU Berlin that focuces on Big Data and Databases. At DIMA I worked on
+DIMA is a research group at TU Berlin that focuses on Big Data and Databases. At DIMA I worked on
 implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
 
 Technologies:<br/>
@@ -94,72 +94,22 @@ As a freelancer I participated in a number of projects for different customers. 
 - And others
 
 Technologies:<br/>
-Java, JavaML, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R; MS Excel. 
+Java, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R<br/>
 
 &nbsp;
 
 Summary of prior experience:
 
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Company</th>
-    <th>Position</th>
-    <th>Location</th>
-  </tr>
-  <tr>
-    <td><strong>2012 &mdash; 2013</strong></td>
-    <td><a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a></td>
-    <td>Java/Spring</td>
-    <td>Poland</td>
-  </tr>
-  <tr>
-    <td><strong>2011 &mdash; 2012</strong></td>
-    <td><a href="http://intech-global.com/">Intech</a> for Tele2</td>
-    <td>Java/Spring</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td><strong>2011 &mdash; 2012</strong></td>
-    <td>Open source project <a href="http://jtalks.org">JTalks.org</a></td>
-    <td>Team Lead (Java)</td>
-    <td>www</td>
-  </tr>
-  <tr>
-    <td><strong>2011</strong></td>
-    <td>SimSim</td>
-    <td>Python/Django (Part time)</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td><strong>2010 &mdash; 2011</strong></td>
-    <td><a href="https://www.amazonrobotics.com/">Amazon Robotics</a> via <a href="https://www.auriga.com/">Auriga</a></td>
-    <td>Java</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td><strong>2010</strong></td>
-    <td>Boston University, Cognitive Neuroscience Lab.</td>
-    <td>Experiment design</td>
-    <td>USA</td>
-  </tr>
-  <tr>
-    <td><strong>2010</strong></td>
-    <td>Sterh</td>
-    <td>C#</td>
-    <td>Russia</td>
-  </tr>
-  <tr>
-    <td><strong>2007 &mdash; 2008</strong></td>
-    <td>FESA, Mathematical Simulations Lab.</td>
-    <td>Research assistant</td>
-    <td>Russia</td>
-  </tr>
-</table>
+* <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; JavaR Poland
+A <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java/Spring &ndash; Russia
+* <strong>2011 &ndash; 2012</strong>, Open source project <a href="http://jtalks.org">JTalks.org</a> &ndash; Team Lead (Java)
+* <strong>2010 &ndash; 2011</strong>, <a href="https://www.amazonrobotics.com/">Amazon Robotics</a> via <a href="https://www.auriga.com/">Auriga</a> &ndash; Java &ndash; Russia
+* <strong>2010 &ndash; 2010</strong>, Boston University, Cognitive Neuroscience Lab &ndash; Research Assistant &ndash; USA
+* <strong>2007 &ndash; 2008</strong>, FESA, Mathematical Simulations Lab &ndash; Research Assistant &ndash; Russia
 
 &nbsp;
 
-### PROJECTS & PUBLICATIONS
+### PUBLICATIONS & PROJECTS
 
 **Books:**
 
@@ -201,25 +151,25 @@ Summary of prior experience:
 - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction) (top 15)
 - [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
 - [Growing Instability: Classifying Crisis Reports](https://www.datasciencechallenge.org/challenges/2/growing-instability) (top 10)
-- [Clickbait Challenge](clickbait-challenge.org) (3rd plce)
+- [Clickbait Challenge](http://clickbait-challenge.org) (3rd place)
 
 
 &nbsp;
 
 ### EDUCATION
 
-**2013 &mdash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
+**2013 &ndash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
 Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
 Technische Universität Berlin.<br/>
 Specialization: Large-Scale Business Intelligence<br/>
 Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
 
-**2006 &mdash; 2010**, Far Eastern State Academy<br/>
+**2006 &ndash; 2010**, Far Eastern State Academy<br/>
 Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
 Specialization: Information Systems and Technologies<br/>
 Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
 
-**2006 &mdash; 2011**, Far Eastern State Academy<br/>
+**2006 &ndash; 2011**, Far Eastern State Academy<br/>
 Department: Foreign Languages<br/>
 Specialization: English<br/>
 
