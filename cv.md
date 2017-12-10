@@ -32,6 +32,7 @@ A data scientist and machine learning engineer with hands on experience and stro
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
 - github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
 - stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
+- google scholar: [https://scholar.google.com/citations?user=xT1V5UwAAAAJ](https://scholar.google.com/citations?user=xT1V5UwAAAAJ)
 - kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
 
 
@@ -129,15 +130,6 @@ Summary of prior experience:
 - and 3+ more
 
 
-**Projects:**
-
-- Predicting mortality from climate data for Khabarovsk, Russia
-- Spam detection for [javatalks.ru](http://javatalks.ru/)
-- Structured Information Retrieval for a FIFA World Cup Datawarehouse
-- Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
-- `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
-
-
 **Competitions:**
 
 - [The Allen AI Science Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge) (top 100)
@@ -151,6 +143,17 @@ Summary of prior experience:
 - [Unpossibly Instagram Challenge](http://live.unpossib.ly/instagram) (1st place)
 - [Growing Instability: Classifying Crisis Reports](https://www.datasciencechallenge.org/challenges/2/growing-instability) (top 10)
 - [Clickbait Challenge](http://clickbait-challenge.org) (3rd place)
+- [NIPS'17 Criteo Ad Placement Challenge](https://www.crowdai.org/challenges/nips-17-workshop-criteo-ad-placement-challenge) (1st place)
+
+
+**Projects:**
+
+- Predicting mortality from climate data for Khabarovsk, Russia
+- Spam detection for [javatalks.ru](http://javatalks.ru/)
+- Structured Information Retrieval for a FIFA World Cup Datawarehouse
+- Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
+- `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
+
 
 
 &nbsp;
