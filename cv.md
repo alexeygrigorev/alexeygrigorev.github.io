@@ -8,7 +8,7 @@ title: Alexey Grigorev - CV
 
 ## CV
 
-A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production, including problem identification, data collection, model creation and deployment. 
+A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production. This includes problem identification, data collection, model creation and deployment. 
 
 
 **Summary:**
@@ -20,7 +20,7 @@ A data scientist and machine learning engineer with hands on experience and stro
 - Experience in running production systems
 - Research experience in academic settings
 - Mentoring and leadership experience
-- Book author, technical reviewer and frequent speaker
+- Books author, technical reviewer and frequent speaker
 - Kaggle master and competition winner
 - Open source contributor
 - Python (numpy, pandas, sklearn)
@@ -31,7 +31,6 @@ A data scientist and machine learning engineer with hands on experience and stro
 - +49 177 490 5706, alexey.s.grigoriev [@] gmail.com
 - linkedin: [http://www.linkedin.com/in/agrigorev](http://www.linkedin.com/in/agrigorev)
 - github: [https://github.com/alexeygrigorev](https://github.com/alexeygrigorev)
-- stackoverflow careers: [https://careers.stackoverflow.com/alexeygrigorev](https://careers.stackoverflow.com/alexeygrigorev)
 - google scholar: [https://scholar.google.com/citations?user=xT1V5UwAAAAJ](https://scholar.google.com/citations?user=xT1V5UwAAAAJ)
 - kaggle: [https://www.kaggle.com/agrigorev](https://www.kaggle.com/agrigorev)
 
@@ -44,8 +43,18 @@ A data scientist and machine learning engineer with hands on experience and stro
 <strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
-&nbsp;
+Simplaex is an adtech company, and we focus on two products: demand-side campaign optimization and supply-side yield optimization. I am involved in a number of projects, including
 
+- Funnel modeling: predicting probability of click, install and payment
+- Look-alike audience creation
+- User profiling
+- Gender and age classification
+- Demand side candidate selection
+
+Technologies:<br/>
+Python, Scikit-Learn, Java, Scala, Spark & PySpark, AWS<br/>
+
+&nbsp;
 
 <strong>10.2015 &mdash; 07.2017</strong><br/>
 <strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
@@ -63,7 +72,7 @@ Searchmetrics is a SEO company which helps customers create better content and t
 
 
 Technologies:<br/>
-Python, pandas, sklearn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
+Python, Scikit-Learn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 
 
 &nbsp;
@@ -113,12 +122,13 @@ Summary of prior experience:
 
 **Books:**
 
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science) by Alexey Grigorev
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science), Packt Publishing, 2017.
+- [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), Packt Publishing, 2018.
 
 
 **Papers:**
 
-- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16 ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
+- Moritz Schubotz, Alexey Grigorev, and others. Semantification of Identifiers in Mathematics for Better Math Information Retrieval. SIGIR '16. ([DOI](http://dx.doi.org/10.1145/2911451.2911503))
 - Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
 
 
@@ -146,16 +156,6 @@ Summary of prior experience:
 - [NIPS'17 Criteo Ad Placement Challenge](https://www.crowdai.org/challenges/nips-17-workshop-criteo-ad-placement-challenge) (1st place)
 
 
-**Projects:**
-
-- Predicting mortality from climate data for Khabarovsk, Russia
-- Spam detection for [javatalks.ru](http://javatalks.ru/)
-- Structured Information Retrieval for a FIFA World Cup Datawarehouse
-- Mathematical Language Processing: Identifier definition extraction and clustering ([github](https://github.com/alexeygrigorev/namespacediscovery-pipeline))
-- `rseq`: Sequence pattern matching library for Java ([github](https://github.com/alexeygrigorev/rseq))
-
-
-
 &nbsp;
 
 ### EDUCATION
@@ -175,16 +175,6 @@ Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
 Department: Foreign Languages<br/>
 Specialization: English<br/>
 
-
-**Independent coursework highlights:**
-
-- [Algorithms: Design and Analysis, Part 1, coursera](https://www.coursera.org/course/algo) (2013)
-- [Machine Learning, coursera](https://www.coursera.org/course/ml) (2013)
-- [Learning from Data, edX](https://www.edx.org/course/learning-data-caltechx-cs1156x) (2014)
-- [Statistical Learning, Stanford Lagunita](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) (2015)
-- [The Analytics Edge, edX](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) (2015)
-- [Econometrics: Methods and Applications, coursera](https://www.coursera.org/learn/erasmus-econometrics) (2015)
-- and 10+ others
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
