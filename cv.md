@@ -52,7 +52,7 @@ Simplaex is an adtech company, and we focus on two products: demand-side campaig
 - Demand side candidate selection
 
 Technologies:<br/>
-Python, Scikit-Learn, Java, Scala, Spark & PySpark, AWS<br/>
+Python, Scikit-Learn, Scala, Spark & PySpark, AWS<br/>
 
 &nbsp;
 
@@ -90,25 +90,9 @@ Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
 
 &nbsp;
 
-<strong>08.2013 &mdash; 12.2014</strong><br/>
-<strong>Small Software Factory</strong> (freelance)<br/>
-Position: Data Scientist<br/>
-
-As a freelancer I participated in a number of projects for different customers. That included:
-
-- Voice recognition for controlling a smartphone
-- Structured information extraction (menus, addresses, etc)
-- AutoML
-- Segmentation and accident prediction for taxi drivers
-- And others
-
-Technologies:<br/>
-Java, LibSVM, LIBLINEAR, Encog, Weka, CMU Sphinx; Lucene, Stanford NLP; R<br/>
-
-&nbsp;
-
 Summary of prior experience:
 
+* <strong>2013 &ndash; 2014</strong>, Small Software Factory &ndash; Data Scientist &ndash; Remote
 * <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; Java &ndash; Poland
 * <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java &ndash; Russia
 * <strong>2011 &ndash; 2012</strong>, Open source project <a href="http://jtalks.org">JTalks.org</a> &ndash; Team Lead (Java)
@@ -122,8 +106,8 @@ Summary of prior experience:
 
 **Books:**
 
-- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science), Packt Publishing, 2017.
-- [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), Packt Publishing, 2018.
+- [Mastering Java for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science), 2017.
+- [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), 2018.
 
 
 **Papers:**
@@ -134,9 +118,9 @@ Summary of prior experience:
 
 **Technical reviewing:**
 
-- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier
-- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi
-- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris 
+- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier, 2015.
+- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi, 2015.
+- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris, 2016.
 - and 3+ more
 
 
