@@ -20,7 +20,7 @@ A data scientist and machine learning engineer with hands on experience and stro
 - Experience in running production systems
 - Research experience in academic settings
 - Mentoring and leadership experience
-- Books author, technical reviewer and frequent speaker
+- Books author, technical reviewer and speaker
 - Kaggle master and competition winner
 - Open source contributor
 - Python (numpy, pandas, sklearn)
@@ -49,10 +49,11 @@ Simplaex is an adtech company, and we focus on two products: demand-side campaig
 - Look-alike audience creation
 - User profiling
 - Gender and age classification
-- Demand side candidate selection
+
+Additionally, I develop and maintain the ML infrastructure. 
 
 Technologies:<br/>
-Python, Scikit-Learn, Scala, Spark & PySpark, AWS<br/>
+Python, Scikit-Learn, Scala, Spark & PySpark, AWS, Luigi, Docker<br/>
 
 &nbsp;
 
@@ -60,7 +61,7 @@ Python, Scikit-Learn, Scala, Spark & PySpark, AWS<br/>
 <strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist<br/>
 
-Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I was involved in a number of projects, including:
+Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I worked on multiple projects, including:
 
 - Content Opt: Topic-aware word recommender to assist copywriters
 - Keyword grouping for correcting search volume from Keyword Planner
