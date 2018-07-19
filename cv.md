@@ -23,7 +23,8 @@ A software engineer with focus on machine learning. I bring data science ideas f
 - Kaggle master and competition winner
 - Open source contributor
 - Python (numpy, pandas, sklearn)
-- Java (spring, maven) and Scala
+- Java and Scala
+- Spark and PySpark
 
 **Contact information and links:**
 
