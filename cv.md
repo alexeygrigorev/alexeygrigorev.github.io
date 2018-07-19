@@ -8,14 +8,13 @@ title: Alexey Grigorev - CV
 
 ## CV
 
-A data scientist and machine learning engineer with hands on experience and strong technical skills. I bring data science ideas from early prototypes to production. This includes problem identification, data collection, model creation and deployment. 
+A software engineer with focus on machine learning. I bring data science ideas from early prototypes to production. This includes problem identification, data collection, model creation, deployment and maintanance. 
 
 
 **Summary:**
 
-- Machine Learning and Data Science, 4+ years
-- Software Engineering, 7+ years
-- Text Mining expert, 4+ years
+- Software Engineering, 8+ years
+- Machine Learning and Data Science, 5 years
 - Quick prototyping skills
 - Experience in running production systems
 - Research experience in academic settings
@@ -41,19 +40,20 @@ A data scientist and machine learning engineer with hands on experience and stro
 
 <strong>08.2017 &mdash; ...</strong><br/>
 <strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
-Position: Data Scientist<br/>
+Position: Data Scientist/Engineer<br/>
 
-Simplaex is an adtech company, and we focus on two products: demand-side campaign optimization and supply-side yield optimization. I am involved in a number of projects, including
+Simplaex is an adtech company, and we focus on two products: demand-side campaign optimization and supply-side yield optimization. 
+
+At Simplaex, I develop and maintain the infrastructure for running batch jobs and retrainig the ML models on hourly basis.
+
+In addition, I am involved in a number of projects, including
 
 - Funnel modeling: predicting probability of click, install and payment
-- Look-alike audience creation
-- User profiling
-- Gender and age classification
+- User profiling, gender and age classification
 
-Additionally, I develop and maintain the ML infrastructure. 
 
 Technologies:<br/>
-Python, Scikit-Learn, Scala, Spark & PySpark, AWS, Luigi, Docker<br/>
+Scala, Python, Spark & PySpark, AWS, Luigi, Docker<br/>
 
 &nbsp;
 
