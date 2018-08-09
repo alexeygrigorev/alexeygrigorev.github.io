@@ -45,7 +45,7 @@ Position: Data Scientist/Engineer<br/>
 
 Simplaex is an adtech company, and we focus on two products: demand-side campaign optimization and supply-side yield optimization. 
 
-At Simplaex, I develop and maintain the infrastructure for running batch jobs and retrainig the ML models on hourly basis.
+At Simplaex, I develop and maintain the infrastructure for running batch jobs and retraining our ML models on hourly basis.
 
 In addition, I am involved in a number of projects, including
 
@@ -54,7 +54,7 @@ In addition, I am involved in a number of projects, including
 
 
 Technologies:<br/>
-Scala, Python, Spark & PySpark, AWS, Luigi, Docker<br/>
+Scala, Python, Spark & PySpark, AWS, Luigi, Docker, JavaScript<br/>
 
 &nbsp;
 
