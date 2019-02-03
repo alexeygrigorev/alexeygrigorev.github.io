@@ -15,6 +15,7 @@ A software engineer with focus on machine learning. I bring data science ideas f
 
 - Software Engineering, 8+ years
 - Machine Learning and Data Science, 5 years
+- Proficient in Python and Java
 - Quick prototyping skills
 - Experience in running production systems
 - Research experience in academic settings
@@ -22,9 +23,7 @@ A software engineer with focus on machine learning. I bring data science ideas f
 - Books author, technical reviewer and speaker
 - Kaggle master and competition winner
 - Open source contributor
-- Python (numpy, pandas, sklearn)
-- Java and Scala
-- Spark and PySpark
+
 
 **Contact information and links:**
 
@@ -39,19 +38,26 @@ A software engineer with focus on machine learning. I bring data science ideas f
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>08.2017 &mdash; ...</strong><br/>
+<strong>10.2018 &mdash; ...</strong><br/>
+<strong>[OLX Group](http://www.olx.com)</strong>, Berlin, Germany<br/>
+Position: Senior Data Scientist<br/>
+
+Technologies:<br/>
+Python, AWS, Docker, Kubernetes<br/>
+
+
+&nbsp;
+
+<strong>08.2017 &mdash; 08.2018</strong><br/>
 <strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist/Engineer<br/>
 
-Simplaex is an adtech company, and we focus on two products: demand-side campaign optimization and supply-side yield optimization. 
+Simplaex is an adtech company in the RTB space with two products: demand-side campaign optimization and supply-side yiled optimization. 
 
-At Simplaex, I develop and maintain the infrastructure for running batch jobs and retraining our ML models on hourly basis.
+At Simplaex I designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique users. In addition, I was involved in a number of projects, including 
 
-In addition, I am involved in a number of projects, including
-
-- Funnel modeling: predicting probability of click, install and payment
 - User profiling, gender and age classification
-
+- Funnel modeling: predicting probability of click, install and payment
 
 Technologies:<br/>
 Scala, Python, Spark & PySpark, AWS, Luigi, Docker, JavaScript<br/>
@@ -65,35 +71,17 @@ Position: Data Scientist<br/>
 Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I worked on multiple projects, including:
 
 - Content Opt: Topic-aware word recommender to assist copywriters
-- Keyword grouping for correcting search volume from Keyword Planner
-- Web site link structure optimization
-- Compound term extraction
-- Template-based title generation
-- Scoring titles for "goodness", clickbaitness and controversy
 - Significant change detection in ranking, market share and traffic
 
 
 Technologies:<br/>
 Python, Scikit-Learn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
 
-
-&nbsp;
-
-<strong>04.2015 &mdash; 09.2015</strong><br/>
-**[DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/)**, Berlin, Germany<br/>
-Position: Research Assistant<br/>
-
-DIMA is a research group at TU Berlin that focuses on Big Data and Databases. At DIMA I worked on
-implementing Apache Mahout DSL for distributed Linear Algebra on top of Apache Flink. <br/>
-
-Technologies:<br/>
-Scala, Java; Apache Mahout, Apache Flink, Apache Spark<br/>
-
-
 &nbsp;
 
 Summary of prior experience:
 
+* <strong>2015 &ndash; 2015</strong>, [DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/) &ndash; Research Assistant &ndash; Berlin, Germany
 * <strong>2013 &ndash; 2014</strong>, Small Software Factory &ndash; Data Scientist &ndash; Remote
 * <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; Java &ndash; Poland
 * <strong>2011 &ndash; 2012</strong>, <a href="http://intech-global.com/">Intech</a> for Tele2 &ndash; Java &ndash; Russia
@@ -118,20 +106,9 @@ Summary of prior experience:
 - Alexey Grigorev. Large-Scale Vandalism Detection with Linear Classifiers. WSDM Cup 2017 Notebook Papers. ([pdf](http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf))
 
 
-**Technical reviewing:**
-
-- [Test-Driven Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/test-driven-machine-learning) by Justin Bozonier, 2015.
-- [Mastering Data Analysis with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r) by Gergely Daróczi, 2015.
-- [Python Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analysis-cookbook) by Ivan Idris, 2016.
-- and 3+ more
-
-
 **Competitions:**
 
-- [The Allen AI Science Challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge) (top 100)
 - [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance) (top 100)
-- [Can we predict voting outcomes?](https://inclass.kaggle.com/c/can-we-predict-voting-outcomes) (top 100)
-- [ChaLearn AutoML Challenge](https://competitions.codalab.org/competitions/2321) CPU & GPU tracks (top 10)
 - [Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection) (top 10)
 - [CIKM Cup 2016 Track 1: Cross-Device Linking](https://competitions.codalab.org/competitions/11171) (top 10)
 - [WSDM Cup 2017: Vandalism Detection](http://www.wsdm-cup-2017.org/vandalism-detection.html) (2nd place)
@@ -147,20 +124,12 @@ Summary of prior experience:
 ### EDUCATION
 
 **2013 &ndash; 2015**, [IT4BI Master Program](http://it4bi.univ-tours.fr/)<br/>
-Joint Master program by Université libre de Bruxelles, Université François-Rabelais de Tours and 
-Technische Universität Berlin.<br/>
+Joint Master program by [ULB](http://www.ulb.ac.be/) (Belgium), [UFRT](http://www.info.univ-tours.fr/diblois/en/) (France) and [TU Berlin](https://www.tu-berlin.de/) (Germany)<br/>
 Specialization: Large-Scale Business Intelligence<br/>
-Degree work: "[Identifier namespaces in mathematical notation](http://arxiv.org/abs/1601.03354)"<br/>
 
 **2006 &ndash; 2010**, Far Eastern State Academy<br/>
 Department: Faculty of Mathematics, Information Technologies and Engineering<br/>
 Specialization: Information Systems and Technologies<br/>
-Degree work: "Commodity Circulation Process in Sterh Ltd."<br/>
-
-**2006 &ndash; 2011**, Far Eastern State Academy<br/>
-Department: Foreign Languages<br/>
-Specialization: English<br/>
-
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
