@@ -42,7 +42,7 @@ A software engineer with focus on machine learning. I bring data science ideas f
 <strong>[OLX Group](http://www.olx.com)</strong>, Berlin, Germany<br/>
 Position: Lead Data Scientist (promoted from Senior Data Scientist)<br/>
 
-OLX is a global online marketplace. At OLX I lead the effort on several projects, including:
+OLX is a global online marketplace. At OLX I lead the effort on several projects, including
 
 - Duplicate detection system processing 95% of OLX images - up to 250 images per second
 - Infrastructure for serving image models processing up to 200 images per second
@@ -57,8 +57,7 @@ Python, AWS, Docker, Kubernetes, Terraform<br/>
 <strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist/Engineer<br/>
 
-Simplaex is an adtech company in the RTB space with two products: demand-side campaign optimization and supply-side yield optimization. 
-
+Simplaex is an adtech company in the RTB space with two products: demand-side campaign optimization and supply-side yield optimization.
 At Simplaex I designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique daily users. Also, I was involved in several projects, including 
 
 - User profiling, gender and age classification
@@ -68,7 +67,6 @@ Technologies:<br/>
 Scala, Python, Spark & PySpark, AWS, Luigi, Docker, JavaScript<br/>
 
 &nbsp;
-
 
 Summary of prior experience:
 
