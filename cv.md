@@ -13,8 +13,8 @@ A software engineer with focus on machine learning. I bring data science ideas f
 
 **Summary:**
 
-- Software Engineering, 8+ years
-- Machine Learning and Data Science, 5 years
+- Software Engineering, 10 years
+- Machine Learning and Data Science, 6 years
 - Proficient in Python and Java
 - Quick prototyping skills
 - Experience in running production systems
@@ -40,10 +40,15 @@ A software engineer with focus on machine learning. I bring data science ideas f
 
 <strong>10.2018 &mdash; ...</strong><br/>
 <strong>[OLX Group](http://www.olx.com)</strong>, Berlin, Germany<br/>
-Position: Senior Data Scientist<br/>
+Position: Lead Data Scientist (promoted from Senior Data Scientist)<br/>
+
+OLX is a global online marketplace. At OLX I lead the effort on several projects, including:
+
+- Duplicate detection system processing 95% of OLX images - up to 250 images per second
+- Infrastructure for serving image models processing up to 200 images per second
 
 Technologies:<br/>
-Python, AWS, Docker, Kubernetes<br/>
+Python, AWS, Docker, Kubernetes, Terraform<br/>
 
 
 &nbsp;
@@ -52,35 +57,22 @@ Python, AWS, Docker, Kubernetes<br/>
 <strong>[Simplaex](http://www.simplaex.com)</strong>, Berlin, Germany<br/>
 Position: Data Scientist/Engineer<br/>
 
-Simplaex is an adtech company in the RTB space with two products: demand-side campaign optimization and supply-side yiled optimization. 
+Simplaex is an adtech company in the RTB space with two products: demand-side campaign optimization and supply-side yield optimization. 
 
-At Simplaex I designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique users. In addition, I was involved in a number of projects, including 
+At Simplaex I designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique daily users. Also, I was involved in several projects, including 
 
 - User profiling, gender and age classification
-- Funnel modeling: predicting probability of click, install and payment
+- Funnel modeling: predicting the probability of click, install, and payment
 
 Technologies:<br/>
 Scala, Python, Spark & PySpark, AWS, Luigi, Docker, JavaScript<br/>
 
 &nbsp;
 
-<strong>10.2015 &mdash; 07.2017</strong><br/>
-<strong>[Searchmetrics](http://www.searchmetrics.com)</strong>, Berlin, Germany<br/>
-Position: Data Scientist<br/>
-
-Searchmetrics is a SEO company which helps customers create better content and track the performance of their websites. At Searchmetrics I worked on multiple projects, including:
-
-- Content Opt: Topic-aware word recommender to assist copywriters
-- Significant change detection in ranking, market share and traffic
-
-
-Technologies:<br/>
-Python, Scikit-Learn, xgboost; Java; Lucene, Stanford NLP; Hadoop, Spark<br/>
-
-&nbsp;
 
 Summary of prior experience:
 
+* <strong>2015 &ndash; 2017</strong>, [Searchmetrics](http://www.searchmetrics.com) &ndash; Data Scientist &ndash; Berlin, Germany
 * <strong>2015 &ndash; 2015</strong>, [DIMA Group](http://www.dima.tu-berlin.de/) at [TU Berlin](http://www.tu-berlin.de/) &ndash; Research Assistant &ndash; Berlin, Germany
 * <strong>2013 &ndash; 2014</strong>, Small Software Factory &ndash; Data Scientist &ndash; Remote
 * <strong>2012 &ndash; 2013</strong>, <a href="http://www.ubs.com/">UBS</a> via <a href="http://www.luxoft.com/">Luxoft</a> &ndash; Java &ndash; Poland
