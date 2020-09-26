@@ -16,6 +16,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin. I'm originally from
 - Twitter: [@Al_Grigor](https://twitter.com/Al_Grigor)
 - LinkedIn: [agrigorev](https://de.linkedin.com/in/agrigorev)
 - GitHub: [alexeygrigorev](https://github.com/alexeygrigorev)
+- [DataTalks.Club](https://datatalks.club) - a place to talk about data!
 
 ### Books
 
