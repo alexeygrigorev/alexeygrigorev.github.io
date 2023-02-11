@@ -22,7 +22,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin. I'm originally from
 
 I'm also a book author:
 
-- [Machine Learning Bookcamp](http://bit.ly/mlbookcamp) (MEAP, in progress)
+- [Machine Learning Bookcamp](http://bit.ly/mlbookcamp)
 - [Mastering Java for Data Science](https://www.amazon.com/Mastering-Java-Data-Science-production-ready-ebook/dp/B01JLBMHMM)
 - [TensorFlow Deep Learning Projects](https://www.amazon.com/TensorFlow-Deep-Learning-Projects-reinforcement/dp/1788398068) (co-author)
 
