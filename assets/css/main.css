@@ -365,6 +365,22 @@ body.dark .icon-sun {
   display: block;
 }
 
+/* Profile README Header */
+.profile-readme-header {
+  padding-bottom: 1.5rem;
+  font-size: 0.875rem;
+}
+
+.profile-readme-path {
+  color: var(--muted-foreground);
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+.profile-readme-path strong {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
 /* Cards */
 .card {
   border: 1px solid var(--border);
