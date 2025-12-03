@@ -1,0 +1,46 @@
+intro:
+  text: "My name is Alexey and I'm a Data Scientist living in Berlin."
+  sponsor_link: https://github.com/sponsors/alexeygrigorev
+
+online:
+  - name: Twitter
+    handle: "@Al_Grigor"
+    url: https://twitter.com/Al_Grigor
+    icon: fa-brands fa-twitter
+  - name: LinkedIn
+    handle: agrigorev
+    url: https://de.linkedin.com/in/agrigorev
+    icon: fa-brands fa-linkedin
+  - name: GitHub
+    handle: alexeygrigorev
+    url: https://github.com/alexeygrigorev
+    icon: fa-brands fa-github
+  - name: DataTalks.Club
+    handle: datatalks.club
+    url: https://datatalks.club
+    description: "a place to talk about data!"
+    icon: fa-solid fa-comments
+
+courses:
+  - name: "AI Bootcamp: from RAG to Agents"
+    url: https://maven.com/alexey-grigorev/from-rag-to-agents
+  - name: Machine Learning Zoomcamp
+    url: https://mlzoomcamp.com/
+  - name: Data Engineering Zoomcamp
+    url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  - name: MLOps Zoomcamp
+    url: https://github.com/DataTalksClub/mlops-zoomcamp
+  - name: LLM Zoomcamp
+    url: https://github.com/DataTalksClub/llm-zoomcamp
+  - name: AI Dev Tools Zoomcamp
+    url: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
+
+books:
+  - name: Machine Learning Bookcamp
+    url: http://bit.ly/mlbookcamp
+  - name: Mastering Java for Data Science
+    url: https://www.amazon.com/Mastering-Java-Data-Science-production-ready-ebook/dp/B01JLBMHMM
+
+contribution:
+  count: 1247
+  period: "in the last year"

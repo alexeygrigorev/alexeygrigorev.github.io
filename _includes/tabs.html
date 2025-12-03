@@ -1,0 +1,20 @@
+<nav class="tabs">
+  <a href="/" class="tab {% if page.tab == 'overview' or page.tab == nil %}active{% endif %}">
+    {% include icons/book-small.html %}
+    Overview
+  </a>
+  <a href="/courses" class="tab {% if page.tab == 'courses' %}active{% endif %}">
+    {% include icons/graduation-cap-small.html %}
+    Courses
+    <span class="counter">{{ site.data.courses.courses.size }}</span>
+  </a>
+  <a href="/projects" class="tab {% if page.tab == 'projects' %}active{% endif %}">
+    {% include icons/folder.html %}
+    Projects
+    <span class="counter">{{ site.data.projects.projects.size }}</span>
+  </a>
+  <a href="/cv" class="tab {% if page.tab == 'cv' %}active{% endif %}">
+    {% include icons/user.html %}
+    CV
+  </a>
+</nav>

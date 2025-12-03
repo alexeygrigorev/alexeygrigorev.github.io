@@ -1,0 +1,26 @@
+# Site settings
+title: Alexey Grigorev - Data Scientist & ML Engineer
+description: Personal page of Alexey Grigorev - Data Scientist & ML Engineer
+author: Alexey Grigorev
+email: alexey@datatalks.club
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: none
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - old
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

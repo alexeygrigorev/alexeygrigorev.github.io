@@ -1,0 +1,202 @@
+summary:
+  - Software Engineering, 10 years
+  - Machine Learning and Data Science, 6 years
+  - Proficient in Python and Java
+  - Quick prototyping skills
+  - Experience in running production systems
+  - Research experience in academic settings
+  - Mentoring and leadership experience
+  - Books author, technical reviewer and speaker
+  - Kaggle master and competition winner
+  - Open source contributor
+
+contact:
+  email: "alexey.s.grigoriev@gmail.com"
+  linkedin: "http://www.linkedin.com/in/agrigorev"
+  github: "https://github.com/alexeygrigorev"
+  scholar: "https://scholar.google.com/citations?user=xT1V5UwAAAAJ"
+  kaggle: "https://www.kaggle.com/agrigorev"
+
+work_experience:
+  - title: Senior → Principal Data Scientist
+    company: OLX Group
+    period: 10.2018 - 03.2023
+    location: Berlin, Germany
+    roles:
+      - role: Lead / Principal Data Scientist
+        period: 11.2019 - 03.2023
+        description: "Internal ML platform used by OLX Europe. Standardized the way data scientists and ML engineers deploy ML models. Lead a 'special forces' MLOps team with a platform engineer and ML engineer. Tech lead responsibilities included system architecture and design, scoping and leading new initiatives. Community work included mentoring and upskilling, organizing hackathons and learnathons, lead editor of the OLX blog, representing OLX externally (meetups and conferences) and internally (within the Prosus community)."
+      - role: Senior Data Scientist
+        period: 10.2018 - 11.2019
+        description: "Lead the effort on several projects including duplicate detection system processing 95% of OLX images - up to 250 images per second, and infrastructure for serving image models processing up to 200 images per second."
+    technologies:
+      - Python
+      - AWS
+      - Docker
+      - Kubernetes
+      - Terraform
+
+  - title: Data Scientist/Engineer
+    company: Simplaex
+    period: 08.2017 - 08.2018
+    location: Berlin, Germany
+    description: "Designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique daily users. Involved in several projects including user profiling, gender and age classification, and funnel modeling (predicting the probability of click, install, and payment)."
+    technologies:
+      - Scala
+      - Python
+      - Spark
+      - PySpark
+      - AWS
+      - Luigi
+      - Docker
+      - JavaScript
+
+work_experience_summary:
+  - period: "2015 – 2017"
+    company: Searchmetrics
+    role: Data Scientist
+    location: Berlin, Germany
+    technologies:
+      - Java
+      - Python
+      - Elasticsearch
+      - AWS
+  - period: "2015 – 2015"
+    company: DIMA Group at TU Berlin
+    role: Research Assistant
+    location: Berlin, Germany
+    technologies:
+      - Java
+      - Flink
+  - period: "2013 – 2014"
+    company: Small Software Factory
+    role: Data Scientist
+    location: Remote
+    technologies:
+      - Java
+      - Python
+      - scikit-learn
+  - period: "2012 – 2013"
+    company: UBS via Luxoft
+    role: Software Engineer
+    location: Poland
+    technologies:
+      - Java
+      - Spring
+  - period: "2011 – 2012"
+    company: Intech for Tele2
+    role: Software Engineer
+    location: Russia
+    technologies:
+      - Java
+      - Spring
+      - Spring MVC
+  - period: "2011 – 2012"
+    company: Open source project JTalks.org
+    role: Team Lead (Java)
+    location: Remote
+    technologies:
+      - Java
+      - Spring
+      - Hibernate
+      - ZK
+  - period: "2010 – 2011"
+    company: Amazon Robotics via Auriga
+    role: Software Engineer
+    location: Russia
+    technologies:
+      - Java
+      - Spring
+      - Spring Remote
+  - period: "2010 – 2010"
+    company: BU, Cognitive Neuroscience
+    role: Research Assistant
+    location: USA
+    technologies:
+      - MATLAB
+      - QBASIC
+  - period: "2007 – 2008"
+    company: FESA, Math Simulations Lab
+    role: Research Assistant
+    location: Russia
+    technologies:
+      - C++
+      - Delphi
+      - Fortran
+
+education:
+  - degree: IT4BI Master Program
+    school: Joint Master program by ULB (Belgium), UFRT (France) and TU Berlin (Germany)
+    period: 2013 - 2015
+    location: Belgium, France, Germany
+    specialization: "Specialization: Large-Scale Business Intelligence"
+
+  - degree: Information Systems and Technologies
+    school: Far Eastern State Academy
+    period: 2006 - 2010
+    location: Russia
+    specialization: "Faculty of Mathematics, Information Technologies and Engineering"
+
+publications:
+  books:
+    - title: Mastering Java for Data Science
+      url: https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science
+      publisher: Packt Publishing
+      year: 2017
+      description: ""
+
+    - title: TensorFlow Deep Learning Projects
+      url: https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects
+      publisher: Packt Publishing
+      year: 2018
+      description: ""
+
+  papers:
+    - title: "Semantification of Identifiers in Mathematics for Better Math Information Retrieval"
+      url: http://dx.doi.org/10.1145/2911451.2911503
+      authors: "Moritz Schubotz, Alexey Grigorev, and others"
+      venue: "SIGIR '16"
+      year: 2016
+
+    - title: "Large-Scale Vandalism Detection with Linear Classifiers"
+      url: http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf
+      authors: "Alexey Grigorev"
+      venue: "WSDM Cup 2017 Notebook Papers"
+      year: 2017
+
+competitions:
+  - name: Home Depot Product Search Relevance
+    url: https://www.kaggle.com/c/home-depot-product-search-relevance
+    result: top 100
+
+  - name: Avito Duplicate Ads Detection
+    url: https://www.kaggle.com/c/avito-duplicate-ads-detection
+    result: top 10
+
+  - name: "CIKM Cup 2016 Track 1: Cross-Device Linking"
+    url: https://competitions.codalab.org/competitions/11171
+    result: top 10
+
+  - name: "WSDM Cup 2017: Vandalism Detection"
+    url: http://www.wsdm-cup-2017.org/vandalism-detection.html
+    result: 2nd place
+
+  - name: Outbrain Click Prediction
+    url: https://www.kaggle.com/c/outbrain-click-prediction
+    result: top 15
+
+  - name: Unpossibly Instagram Challenge
+    url: http://live.unpossib.ly/instagram
+    result: 1st place
+
+  - name: "Growing Instability: Classifying Crisis Reports"
+    url: https://www.datasciencechallenge.org/challenges/2/growing-instability
+    result: top 10
+
+  - name: Clickbait Challenge
+    url: http://clickbait-challenge.org
+    result: 3rd place
+
+  - name: "NIPS'17 Criteo Ad Placement Challenge"
+    url: https://www.crowdai.org/challenges/nips-17-workshop-criteo-ad-placement-challenge
+    result: 1st place

@@ -1,0 +1,44 @@
+---
+layout: default
+title: Courses - Alexey Grigorev
+tab: courses
+tab_id: tab-courses
+---
+
+<div class="courses-list">
+  {% for course in site.data.courses.courses %}
+  <!-- {{ course.name }} -->
+  <div class="card course-card">
+    <div class="course-header">
+      <div class="course-title-row">
+        <a href="{{ course.url }}" target="_blank" rel="noopener noreferrer" class="link course-name">
+          {{ course.name }}
+          {% include icons/external-link.html %}
+        </a>
+        {% if course.free %}<span class="free-badge">Free</span>{% endif %}
+      </div>
+    </div>
+    <p class="course-description">{{ course.description }}</p>
+    <div class="topics">
+      {% for topic in course.topics %}
+      <span class="topic">{{ topic }}</span>
+      {% endfor %}
+    </div>
+    <div class="course-stats">
+      <span class="stat">
+        {% include icons/users-small.html %}
+        {{ course.stats.students }} students
+      </span>
+      <span class="stat">
+        {% include icons/star-small.html %}
+        {{ course.stats.rating }}
+      </span>
+      <span class="stat">
+        {% include icons/calendar.html %}
+        {{ course.stats.period }}
+      </span>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+

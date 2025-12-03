@@ -1,0 +1,98 @@
+---
+layout: default
+title: Alexey Grigorev - Data Scientist & ML Engineer
+tab: overview
+tab_id: tab-overview
+---
+
+<!-- Intro -->
+<section class="card">
+  <div class="intro-section">
+    <div class="intro-content">
+      <p class="intro-text">
+        {{ site.data.overview.intro.text }}
+      </p>
+
+      <div class="contact-info">
+        {% for item in site.data.overview.online %}
+        <div class="contact-item">
+          <i class="{{ item.icon }}"></i>
+          <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+        </div>
+        {% endfor %}
+      </div>
+      
+      <a href="{{ site.data.overview.intro.sponsor_link }}" target="_blank" rel="noopener noreferrer" class="sponsor-btn">
+        {% include icons/heart.html %}
+        Support me on GitHub
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- Courses -->
+<section>
+  <h2 class="section-title">
+    {% include icons/book.html %}
+    Courses
+  </h2>
+  <div class="preview-grid">
+    {% for course in site.data.courses.courses limit:3 %}
+    <a href="{{ course.url }}" target="_blank" rel="noopener noreferrer" class="preview-card">
+      <div class="preview-card-content">
+        <h3 class="preview-card-title">{{ course.name }}</h3>
+        {% if course.description %}
+        <p class="preview-card-description">{{ course.description }}</p>
+        {% endif %}
+      </div>
+      <i class="fa-solid fa-arrow-up-right-from-square preview-card-icon"></i>
+    </a>
+    {% endfor %}
+  </div>
+  {% assign total_courses = site.data.courses.courses.size %}
+  {% if total_courses > 3 %}
+  {% assign remaining_courses = total_courses | minus: 3 %}
+  <div style="margin-top: 1rem; text-align: center;">
+    <a href="/courses.html" class="link">View {{ remaining_courses }} more course{% if remaining_courses > 1 %}s{% endif %} →</a>
+  </div>
+  {% endif %}
+</section>
+
+<!-- Projects -->
+<section>
+  <h2 class="section-title">
+    {% include icons/folder.html %}
+    Projects
+  </h2>
+  <div class="preview-grid">
+    {% for project in site.data.projects.projects limit:3 %}
+    <a href="{{ project.url }}" target="_blank" rel="noopener noreferrer" class="preview-card">
+      <div class="preview-card-content">
+        <h3 class="preview-card-title">{{ project.name }}</h3>
+        {% if project.description %}
+        <p class="preview-card-description">{{ project.description }}</p>
+        {% endif %}
+      </div>
+      <i class="fa-solid fa-arrow-up-right-from-square preview-card-icon"></i>
+    </a>
+    {% endfor %}
+  </div>
+  {% assign total_projects = site.data.projects.projects.size %}
+  {% if total_projects > 3 %}
+  {% assign remaining_projects = total_projects | minus: 3 %}
+  <div style="margin-top: 1rem; text-align: center;">
+    <a href="/projects.html" class="link">View {{ remaining_projects }} more project{% if remaining_projects > 1 %}s{% endif %} →</a>
+  </div>
+  {% endif %}
+</section>
+
+<!-- Contribution Graph -->
+<section>
+  <h2 class="section-title-simple">Contribution activity</h2>
+  <div class="card contribution-graph">
+    <div class="graph-container" id="contribution-graph"></div>
+    <p class="contribution-text">{{ site.data.overview.contribution.count }} contributions {{ site.data.overview.contribution.period }}</p>
+  </div>
+</section>
+

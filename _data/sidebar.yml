@@ -1,0 +1,49 @@
+name: Alexey Grigorev
+username: alexeygrigorev
+avatar: assets/images/alexey-rag.jpg
+bio: |
+  15 years of experience. Teaching AI and Data to 100k+ students.
+  <br>
+  <br>
+  Founder of DataTalks.Club · Creator of the Zoomcamp Series · ML Engineer & Author
+
+stats:
+  followers: 3.2k
+  following: 89
+
+info:
+  - icon: briefcase
+    text: DataTalks.Club
+  - icon: location
+    text: Berlin, Germany
+  - icon: email
+    text: alexey@datatalks.club
+    link: mailto:alexey@datatalks.club
+  - icon: link
+    text: datatalks.club
+    link: https://datatalks.club
+
+highlights:
+  - "🏆 Arctic Code Vault Contributor"
+  - "⭐ Pro"
+
+organizations:
+  - name: DataTalks.Club
+    badge: DT
+  - name: ML Community
+    badge: ML
+
+online:
+  - icon: fa-brands fa-twitter
+    text: "@Al_Grigor"
+    link: https://twitter.com/Al_Grigor
+  - icon: fa-brands fa-linkedin
+    text: agrigorev
+    link: https://de.linkedin.com/in/agrigorev
+  - icon: fa-brands fa-github
+    text: alexeygrigorev
+    link: https://github.com/alexeygrigorev
+  - icon: fa-solid fa-comments
+    text: DataTalks.Club
+    link: https://datatalks.club
+    description: a place to talk about data!

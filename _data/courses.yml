@@ -1,0 +1,51 @@
+courses:
+  - name: Machine Learning Zoomcamp
+    url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+    free: true
+    description: "A free 4-month online course covering machine learning engineering. Learn to deploy ML models to production with practical projects."
+    topics:
+      - Python
+      - Scikit-learn
+      - TensorFlow
+      - Keras
+      - Flask
+      - Docker
+      - Kubernetes
+    stats:
+      students: "15,000+"
+      rating: 4.9
+      period: "2021-present"
+
+  - name: Data Engineering Zoomcamp
+    url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+    free: true
+    description: "Free course on data engineering with practical experience building pipelines, working with GCP, Terraform, and more."
+    topics:
+      - SQL
+      - Python
+      - GCP
+      - Terraform
+      - Docker
+      - Spark
+      - Kafka
+      - dbt
+    stats:
+      students: "35,000+"
+      rating: 4.9
+      period: "2022-present"
+
+  - name: MLOps Zoomcamp
+    url: https://github.com/DataTalksClub/mlops-zoomcamp
+    free: true
+    description: "Learn practical MLOps skills: experiment tracking, workflow orchestration, model deployment, and monitoring."
+    topics:
+      - MLflow
+      - Prefect
+      - Docker
+      - Kubernetes
+      - Grafana
+      - Evidently
+    stats:
+      students: "10,000+"
+      rating: 4.8
+      period: "2022-present"

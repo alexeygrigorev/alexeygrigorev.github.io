@@ -1,0 +1,64 @@
+projects:
+  - name: mlbookcamp-code
+    url: https://github.com/alexeygrigorev/mlbookcamp-code
+    description: Code from the Machine Learning Bookcamp book
+    language: Jupyter Notebook
+    stars: 2800
+    forks: 850
+    updated: Oct 2024
+
+  - name: machine-learning-zoomcamp
+    url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+    description: Learn machine learning engineering in 4 months
+    language: Jupyter Notebook
+    stars: 8500
+    forks: 2100
+    updated: Dec 2024
+
+  - name: data-engineering-zoomcamp
+    url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+    description: Free Data Engineering course
+    language: Jupyter Notebook
+    stars: 24000
+    forks: 5200
+    updated: Dec 2024
+
+  - name: mlops-zoomcamp
+    url: https://github.com/DataTalksClub/mlops-zoomcamp
+    description: Free MLOps course. Learn practical MLOps from scratch.
+    language: Jupyter Notebook
+    stars: 4800
+    forks: 1200
+    updated: Nov 2024
+
+  - name: llm-zoomcamp
+    url: https://github.com/DataTalksClub/llm-zoomcamp
+    description: LLM Zoomcamp - build your own RAG system
+    language: Jupyter Notebook
+    stars: 3200
+    forks: 680
+    updated: Dec 2024
+
+  - name: tshirt-size-detector
+    url: https://github.com/alexeygrigorev/tshirt-size-detector
+    description: Detect t-shirt sizes using computer vision
+    language: Python
+    stars: 340
+    forks: 95
+    updated: Aug 2023
+
+  - name: datatalks-club-website
+    url: https://github.com/DataTalksClub/datatalks-club-website
+    description: Website for DataTalks.Club community
+    language: TypeScript
+    stars: 120
+    forks: 45
+    updated: Sep 2024
+
+  - name: model-deployment-workshop
+    url: https://github.com/alexeygrigorev/model-deployment-workshop
+    description: Workshop materials for deploying ML models
+    language: Python
+    stars: 890
+    forks: 230
+    updated: Jul 2024

@@ -1,0 +1,67 @@
+---
+layout: default
+title: Projects - Alexey Grigorev
+tab: projects
+tab_id: tab-projects
+---
+
+<!-- Search and filter -->
+<div class="projects-filter">
+  <input type="text" placeholder="Find a repository..." class="search-input">
+  <div class="filter-selects">
+    <select class="filter-select">
+      <option>Type</option>
+      <option>All</option>
+      <option>Public</option>
+      <option>Private</option>
+    </select>
+    <select class="filter-select">
+      <option>Language</option>
+      <option>All</option>
+      <option>Python</option>
+      <option>Jupyter Notebook</option>
+      <option>TypeScript</option>
+    </select>
+    <select class="filter-select">
+      <option>Sort</option>
+      <option>Last updated</option>
+      <option>Name</option>
+      <option>Stars</option>
+    </select>
+  </div>
+</div>
+
+<!-- Project list -->
+<div class="projects-list">
+  {% for project in site.data.projects.projects %}
+  <!-- {{ project.name }} -->
+  <div class="project-item">
+    <div class="project-header">
+      <div class="project-title">
+        <a href="{{ project.url }}" class="link project-name">{{ project.name }}</a>
+        <span class="public-badge">Public</span>
+      </div>
+      <button class="star-btn">
+        {% include icons/star.html %}
+        Star
+      </button>
+    </div>
+    <p class="project-description">{{ project.description }}</p>
+    <div class="project-meta">
+      <span class="lang">
+        <span class="lang-dot" style="background-color: {{ site.data.language_colors.languages[project.language] }}"></span>
+        {{ project.language }}
+      </span>
+      <a href="#" class="meta-link">
+        {% include icons/star.html %}
+        {{ project.stars | number_with_delimiter: ',' }}
+      </a>
+      <a href="#" class="meta-link">
+        {% include icons/git-fork.html %}
+        {{ project.forks | number_with_delimiter: ',' }}
+      </a>
+      <span class="updated">Updated {{ project.updated }}</span>
+    </div>
+  </div>
+  {% endfor %}
+</div>

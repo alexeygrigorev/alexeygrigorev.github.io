@@ -1,0 +1,74 @@
+<aside class="sidebar">
+  <!-- Avatar -->
+  <div class="sidebar-avatar">
+    <img
+      src="{{ site.data.sidebar.avatar }}"
+      alt="{{ site.data.sidebar.name }}"
+    >
+  </div>
+  
+  <!-- Name -->
+  <div class="sidebar-name">
+    <h1>{{ site.data.sidebar.name }}</h1>
+    <p class="username">{{ site.data.sidebar.username }}</p>
+  </div>
+
+  <!-- Bio -->
+  <p class="sidebar-bio">
+    {{ site.data.sidebar.bio }}
+  </p>
+
+  <!-- Follow button -->
+  <button class="follow-btn">Follow</button>
+
+  <!-- Stats -->
+  <div class="sidebar-stats">
+    {% include icons/users.html %}
+    <span><strong>{{ site.data.sidebar.stats.followers }}</strong> followers</span>
+    <span>·</span>
+    <span><strong>{{ site.data.sidebar.stats.following }}</strong> following</span>
+  </div>
+
+  <!-- Info list -->
+  <ul class="sidebar-info">
+    {% for item in site.data.sidebar.info %}
+    <li>
+      {% if item.icon == "briefcase" %}
+      {% include icons/briefcase.html %}
+      {% elsif item.icon == "location" %}
+      {% include icons/location.html %}
+      {% elsif item.icon == "email" %}
+      {% include icons/email.html %}
+      {% elsif item.icon == "link" %}
+      {% include icons/link.html %}
+      {% endif %}
+      {% if item.link %}
+      <a href="{{ item.link }}" {% if item.icon == "link" %}target="_blank" rel="noopener noreferrer"{% endif %} class="link">{{ item.text }}</a>
+      {% else %}
+      <span>{{ item.text }}</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Highlights -->
+  <div class="sidebar-section">
+    <h3>Highlights</h3>
+    <div class="badges">
+      {% for highlight in site.data.sidebar.highlights %}
+      <span class="badge">{{ highlight }}</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Organizations -->
+  <div class="sidebar-section">
+    <h3>Organizations</h3>
+    <div class="orgs">
+      {% for org in site.data.sidebar.organizations %}
+      <div class="org-badge">{{ org.badge }}</div>
+      {% endfor %}
+    </div>
+  </div>
+
+</aside>

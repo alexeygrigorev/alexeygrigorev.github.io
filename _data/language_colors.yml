@@ -1,0 +1,13 @@
+languages:
+  "Jupyter Notebook": "#DA5B0B"
+  Python: "#3572A5"
+  TypeScript: "#3178C6"
+  JavaScript: "#F1E05A"
+  Java: "#B07219"
+  Go: "#00ADD8"
+  Ruby: "#701516"
+  PHP: "#4F5D95"
+  C++: "#F34B7D"
+  C: "#555555"
+  Rust: "#DEA584"
+  Swift: "#F05138"

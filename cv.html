@@ -1,0 +1,233 @@
+---
+layout: default
+title: Alexey Grigorev - CV
+tab: cv
+tab_id: tab-cv
+---
+
+<!-- Print-only name header -->
+<div class="print-only-name">
+  <h1>Alexey Grigorev</h1>
+</div>
+
+<!-- Download button -->
+<div class="cv-header">
+  <button class="download-btn" onclick="window.print()">
+    {% include icons/download.html %}
+    Download PDF
+  </button>
+</div>
+
+<!-- CV Header -->
+<section class="cv-intro">
+  <p>
+    A software engineer with focus on machine learning. I bring data science ideas from early prototypes to production. 
+    This includes problem identification, data collection, model creation, deployment and maintenance.
+  </p>
+  
+  <div class="contact-info">
+    <div class="contact-item">
+      <i class="fa-solid fa-envelope"></i>
+      <span>{{ site.data.cv.contact.email }}</span>
+    </div>
+    <div class="contact-item">
+      <i class="fa-brands fa-linkedin"></i>
+      <a href="{{ site.data.cv.contact.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+    <div class="contact-item">
+      <i class="fa-brands fa-github"></i>
+      <a href="{{ site.data.cv.contact.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </div>
+    <div class="contact-item">
+      <i class="fa-solid fa-graduation-cap"></i>
+      <a href="{{ site.data.cv.contact.scholar }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+    </div>
+    <div class="contact-item">
+      <i class="fa-brands fa-kaggle"></i>
+      <a href="{{ site.data.cv.contact.kaggle }}" target="_blank" rel="noopener noreferrer">Kaggle</a>
+    </div>
+  </div>
+</section>
+
+<!-- Summary -->
+<section>
+  <h2 class="section-title">
+    <i class="fa-solid fa-list-check"></i>
+    Summary
+  </h2>
+  <div class="card">
+    <ul class="summary-list">
+      {% for item in site.data.cv.summary %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<!-- Work Experience -->
+<section>
+  <h2 class="section-title">
+    {% include icons/briefcase-large.html %}
+    Professional Experience
+  </h2>
+  <div class="experience-list">
+    {% for job in site.data.cv.work_experience %}
+    <div class="card experience-card">
+      <div class="experience-header">
+        <div class="experience-info">
+          <h3 class="job-title">{{ job.title }}</h3>
+          <p class="company">{{ job.company }}</p>
+        </div>
+        <div class="experience-meta">
+          <p>{{ job.period }}</p>
+          <p>{{ job.location }}</p>
+        </div>
+      </div>
+      {% if job.roles %}
+      <div class="sub-roles">
+        {% for subrole in job.roles %}
+        <div class="sub-role">
+          <div class="sub-role-header">
+            <span class="sub-role-title">{{ subrole.role }}</span>
+            <span class="sub-role-period">{{ subrole.period }}</span>
+          </div>
+          <p class="job-description">{{ subrole.description }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {% elsif job.description != "" %}
+      <p class="job-description">{{ job.description }}</p>
+      {% endif %}
+      {% if job.technologies %}
+      <div class="tech-tags">
+        {% for tech in job.technologies %}
+        <span class="tech-tag">
+          <span class="tech-dot"></span>
+          {{ tech }}
+        </span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  
+  <h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">Summary of Prior Experience:</h3>
+  <div class="experience-list experience-summary-compact">
+    {% for exp in site.data.cv.work_experience_summary %}
+    <div class="card experience-card">
+      <div class="experience-header">
+        <div class="experience-info">
+          <h3 class="job-title">{{ exp.role }}</h3>
+          <p class="company">{{ exp.company }}</p>
+        </div>
+        <div class="experience-meta">
+          <p>{{ exp.period }}</p>
+          <p>{{ exp.location }}</p>
+        </div>
+      </div>
+      {% if exp.technologies %}
+      <div class="tech-tags">
+        {% for tech in exp.technologies %}
+        <span class="tech-tag">
+          <span class="tech-dot"></span>
+          {{ tech }}
+        </span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Publications -->
+<section>
+  <h2 class="section-title">
+    {% include icons/book.html %}
+    Books
+  </h2>
+  
+  <div class="publications-list">
+    {% for book in site.data.cv.publications.books %}
+    <div class="card publication-card">
+      <div class="publication-header">
+        <a href="{{ book.url }}" target="_blank" rel="noopener noreferrer" class="link publication-title">
+          {{ book.title }}
+          {% include icons/external-link.html %}
+        </a>
+        <p class="publication-info">{{ book.publisher }}, {{ book.year }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Papers -->
+<section>
+  <h2 class="section-title">
+    <i class="fa-solid fa-file-lines"></i>
+    Papers
+  </h2>
+  
+  <div class="publications-list">
+    {% for paper in site.data.cv.publications.papers %}
+    <div class="card publication-card">
+      <div class="publication-header">
+        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer" class="link publication-title">
+          {{ paper.title }}
+          {% include icons/external-link.html %}
+        </a>
+        <p class="publication-info">{{ paper.authors }}. {{ paper.venue }}, {{ paper.year }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Competitions -->
+<section>
+  <h2 class="section-title">
+    {% include icons/award.html %}
+    Competitions
+  </h2>
+  <div class="competitions-grid">
+    {% for comp in site.data.cv.competitions %}
+    <div class="competition-item">
+      <a href="{{ comp.url }}" target="_blank" rel="noopener noreferrer">{{ comp.name }}</a>
+      <div class="competition-result">{{ comp.result }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- Education -->
+<section>
+  <h2 class="section-title">
+    {% include icons/graduation-cap.html %}
+    Education
+  </h2>
+  <div class="education-list">
+    {% for edu in site.data.cv.education %}
+    <div class="card education-card">
+      <div class="education-header">
+        <div class="education-info">
+          <h3 class="degree">{{ edu.degree }}</h3>
+          <p class="school">{{ edu.school }}</p>
+          {% if edu.specialization %}
+          <p style="margin-top: 0.5rem; color: var(--muted-foreground);">{{ edu.specialization }}</p>
+          {% endif %}
+        </div>
+        <div class="education-meta">
+          <p>{{ edu.period }}</p>
+          <p>{{ edu.location }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<div style="text-align: right; margin-top: 3rem; font-style: italic; color: var(--muted-foreground);">
+  Best printed with Google Chrome
+</div>
