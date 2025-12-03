@@ -38,11 +38,28 @@ A software engineer with focus on machine learning. I bring data science ideas f
 
 ### PROFESSIONAL EXPERIENCE
 
-<strong>10.2018 &mdash; ...</strong><br/>
+<strong>10.2018 &mdash; 03.2023</strong><br/>
 <strong>[OLX Group](http://www.olx.com)</strong>, Berlin, Germany<br/>
-Position: Lead Data Scientist (promoted from Senior Data Scientist)<br/>
+Position: Lead --> Principal Data Scientist
 
-OLX is a global online marketplace. At OLX I lead the effort on several projects, including
+Internal ML plafrom used by OLX Europe
+
+- standardized the way data scinetists and ML engineers deploy ML models
+- lead a "special forces" MLOps team with a plaform engineer and ML engineer
+
+Tech lead responsibilities
+
+- System architecture and design 
+- Scoping and leading new initiatives 
+
+Community work
+
+- Mentioring and upskilling
+- Organizing hackathons and learnathons
+- Lead editor of the OLX blog
+- Representing OLX externally (meetups and conferences) and internally (within the Prosus community) 
+
+as a Senior data scientist, I lead the effort on several projects, including
 
 - Duplicate detection system processing 95% of OLX images - up to 250 images per second
 - Infrastructure for serving image models processing up to 200 images per second
@@ -123,3 +140,4 @@ Specialization: Information Systems and Technologies<br/>
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
+
