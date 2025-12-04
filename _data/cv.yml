@@ -1,14 +1,15 @@
 summary:
-  - Software Engineering, 10 years
-  - Machine Learning and Data Science, 6 years
-  - Proficient in Python and Java
-  - Quick prototyping skills
-  - Experience in running production systems
-  - Research experience in academic settings
-  - Mentoring and leadership experience
-  - Books author, technical reviewer and speaker
-  - Kaggle master and competition winner
-  - Open source contributor
+  software_engineering_since: 2010
+  machine_learning_since: 2012
+  skills:
+    - Proficient in Python and AI-assisted programming
+    - Quick prototyping skills
+    - Experience in running production systems
+    - Research experience in academic settings
+    - Mentoring and leadership experience
+    - Books author, technical reviewer and speaker
+    - Kaggle master and competition winner
+    - Open source contributor
 
 contact:
   email: "alexey.s.grigoriev@gmail.com"
@@ -16,6 +17,7 @@ contact:
   github: "https://github.com/alexeygrigorev"
   scholar: "https://scholar.google.com/citations?user=xT1V5UwAAAAJ"
   kaggle: "https://www.kaggle.com/agrigorev"
+
 
 work_experience:
   - title: Senior → Principal Data Scientist
@@ -25,10 +27,29 @@ work_experience:
     roles:
       - role: Lead / Principal Data Scientist
         period: 11.2019 - 03.2023
-        description: "Internal ML platform used by OLX Europe. Standardized the way data scientists and ML engineers deploy ML models. Lead a 'special forces' MLOps team with a platform engineer and ML engineer. Tech lead responsibilities included system architecture and design, scoping and leading new initiatives. Community work included mentoring and upskilling, organizing hackathons and learnathons, lead editor of the OLX blog, representing OLX externally (meetups and conferences) and internally (within the Prosus community)."
+        description: |
+          Led the development of OLX Europe’s internal ML platform,
+          standardizing how data scientists and ML engineers build,
+          deploy, and operate ML models. Managed a cross-functional 
+          “special forces” MLOps team (platform + ML engineering),
+          owning system architecture, design, and end-to-end delivery
+          of new capabilities.<br><br>
+
+          Contributed significantly to the DS/ML community through
+          mentoring and upskilling programs, organizing hackathons
+          and learnathons, serving as lead editor of the OLX tech
+          blog, and representing OLX at conferences, meetups, and
+          within the Prosus group.
+        
+        
       - role: Senior Data Scientist
         period: 10.2018 - 11.2019
-        description: "Lead the effort on several projects including duplicate detection system processing 95% of OLX images - up to 250 images per second, and infrastructure for serving image models processing up to 200 images per second."
+        description: |
+          Led multiple high-impact initiatives, including a large-scale
+          duplicate-image detection system covering 95% of OLX
+          inventory (processing ~250 images/sec) and a production
+          inference infrastructure for image-based models capable
+          of serving ~200 images/sec.
     technologies:
       - Python
       - AWS
@@ -36,11 +57,17 @@ work_experience:
       - Kubernetes
       - Terraform
 
-  - title: Data Scientist/Engineer
+  - title: Data Scientist / Engineer
     company: Simplaex
     period: 08.2017 - 08.2018
     location: Berlin, Germany
-    description: "Designed, developed and maintained the ML infrastructure for processing 3+ bln events per day with 100+ mln unique daily users. Involved in several projects including user profiling, gender and age classification, and funnel modeling (predicting the probability of click, install, and payment)."
+    description: |
+      Designed, developed, and maintained large-scale ML
+      infrastructure handling 3B+ daily events from 100M+ unique
+      users. Contributed to multiple ML initiatives, including
+      user profiling, gender and age classification, and
+      funnel modeling to predict click, install, and payment
+      likelihood.
     technologies:
       - Scala
       - Python

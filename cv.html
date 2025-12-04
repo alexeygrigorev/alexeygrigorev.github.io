@@ -27,10 +27,6 @@ tab_id: tab-cv
   
   <div class="contact-info">
     <div class="contact-item">
-      <i class="fa-solid fa-envelope"></i>
-      <span>{{ site.data.cv.contact.email }}</span>
-    </div>
-    <div class="contact-item">
       <i class="fa-brands fa-linkedin"></i>
       <a href="{{ site.data.cv.contact.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </div>
@@ -46,6 +42,10 @@ tab_id: tab-cv
       <i class="fa-brands fa-kaggle"></i>
       <a href="{{ site.data.cv.contact.kaggle }}" target="_blank" rel="noopener noreferrer">Kaggle</a>
     </div>
+    <div class="contact-item">
+      <i class="fa-solid fa-envelope"></i>
+      <span>{{ site.data.cv.contact.email }}</span>
+    </div>
   </div>
 </section>
 
@@ -57,7 +57,11 @@ tab_id: tab-cv
   </h2>
   <div class="card">
     <ul class="summary-list">
-      {% for item in site.data.cv.summary %}
+      {% assign current_year = 'now' | date: '%Y' | plus: 0 %}
+      {% assign se_years = current_year | minus: site.data.cv.summary.software_engineering_since %}
+      {% assign ml_years = current_year | minus: site.data.cv.summary.machine_learning_since %}
+      <li>{{ se_years }} years in software and  {{ ml_years }} years in ML</li>
+      {% for item in site.data.cv.summary.skills %}
       <li>{{ item }}</li>
       {% endfor %}
     </ul>
