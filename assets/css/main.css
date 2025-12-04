@@ -733,9 +733,20 @@ body.dark .graph-day.level-4 {
   background-color: var(--secondary);
   color: var(--foreground);
   cursor: pointer;
+  transition: background-color 0.2s ease;
 }
 
 .star-btn:hover {
+  background-color: var(--muted);
+}
+
+.star-btn.starred {
+  background-color: var(--secondary);
+  color: var(--foreground);
+  border-color: var(--border);
+}
+
+.star-btn.starred:hover {
   background-color: var(--muted);
 }
 

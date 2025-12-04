@@ -41,9 +41,10 @@ tab_id: tab-projects
         <a href="{{ project.url }}" class="link project-name">{{ project.name }}</a>
         <span class="public-badge">Public</span>
       </div>
-      <button class="star-btn">
-        {% include icons/star.html %}
-        Star
+      <button class="star-btn" data-project="{{ project.name }}">
+        <span class="star-icon-outline">{% include icons/star.html %}</span>
+        <span class="star-icon-filled" style="display: none;">{% include icons/star-filled.html %}</span>
+        <span class="star-text">Star</span>
       </button>
     </div>
     <p class="project-description">{{ project.description }}</p>
@@ -65,3 +66,8 @@ tab_id: tab-projects
   </div>
   {% endfor %}
 </div>
+
+<div style="margin-top: 1rem; text-align: center;">
+  <a href="https://github.com/alexeygrigorev/" target="_blank" rel="noopener noreferrer" class="link">See all my projects on GitHub →</a>
+</div>
+

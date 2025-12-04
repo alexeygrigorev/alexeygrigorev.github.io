@@ -1,64 +1,177 @@
 projects:
-  - name: mlbookcamp-code
-    url: https://github.com/alexeygrigorev/mlbookcamp-code
-    description: Code from the Machine Learning Bookcamp book
-    language: Jupyter Notebook
-    stars: 2800
-    forks: 850
-    updated: Oct 2024
-
-  - name: machine-learning-zoomcamp
-    url: https://github.com/DataTalksClub/machine-learning-zoomcamp
-    description: Learn machine learning engineering in 4 months
-    language: Jupyter Notebook
-    stars: 8500
-    forks: 2100
-    updated: Dec 2024
-
-  - name: data-engineering-zoomcamp
-    url: https://github.com/DataTalksClub/data-engineering-zoomcamp
-    description: Free Data Engineering course
-    language: Jupyter Notebook
-    stars: 24000
-    forks: 5200
-    updated: Dec 2024
-
-  - name: mlops-zoomcamp
-    url: https://github.com/DataTalksClub/mlops-zoomcamp
-    description: Free MLOps course. Learn practical MLOps from scratch.
-    language: Jupyter Notebook
-    stars: 4800
-    forks: 1200
-    updated: Nov 2024
-
-  - name: llm-zoomcamp
-    url: https://github.com/DataTalksClub/llm-zoomcamp
-    description: LLM Zoomcamp - build your own RAG system
-    language: Jupyter Notebook
-    stars: 3200
-    forks: 680
-    updated: Dec 2024
-
-  - name: tshirt-size-detector
-    url: https://github.com/alexeygrigorev/tshirt-size-detector
-    description: Detect t-shirt sizes using computer vision
+  - name: course-management-platform
+    url: https://github.com/DataTalksClub/course-management-platform
+    description: Django-based web platform for managing all DataTalks.Club courses
     language: Python
-    stars: 340
+    stars: 77
+    forks: 22
+    updated: Dec 2025
+
+  - name: minsearch
+    url: https://github.com/alexeygrigorev/minsearch
+    description: Minimalistic text search engine that uses sklearn and pandas
+    language: Python
+    stars: 41
+    forks: 8
+    updated: Dec 2025
+
+  - name: data-science-interviews
+    url: https://github.com/alexeygrigorev/data-science-interviews
+    description: Data science interview questions and answers
+    language: Markdown
+    stars: 9700
+    forks: 1900
+    updated: Dec 2025
+
+  - name: project-of-the-week
+    url: https://github.com/DataTalksClub/project-of-the-week
+    description: 11 mini-courses on different topics - streamlit, fastAPI, github actions, etc
+    language: Python
+    stars: 412
     forks: 95
-    updated: Aug 2023
+    updated: Dec 2025
 
-  - name: datatalks-club-website
-    url: https://github.com/DataTalksClub/datatalks-club-website
-    description: Website for DataTalks.Club community
-    language: TypeScript
-    stars: 120
+  - name: datatalksclub.github.io
+    url: https://github.com/DataTalksClub/datatalksclub.github.io
+    description: Website for DataTalks.Club with automations for events, people, podcasts, social images
+    language: HTML
+    stars: 236
+    forks: 78
+    updated: Dec 2025
+
+  - name: workshops
+    url: https://github.com/alexeygrigorev/workshops
+    description: Workshops about different topics including agents, MCP, deep learning, and more
+    language: Jupyter Notebook
+    stars: 59
+    forks: 15
+    updated: Dec 2025
+
+  - name: build-your-own-search-engine
+    url: https://github.com/alexeygrigorev/build-your-own-search-engine
+    description: Code for the "Build Your Own Search Engine" workshop
+    language: Jupyter Notebook
+    stars: 129
+    forks: 35
+    updated: June 2024
+
+  - name: clothing-dataset
+    url: https://github.com/alexeygrigorev/clothing-dataset
+    description: Dataset with pictures of different types of clothes, free for any purposes
+    language: Jupyter Notebook
+    stars: 113
     forks: 45
-    updated: Sep 2024
+    updated: May 2023
 
-  - name: model-deployment-workshop
-    url: https://github.com/alexeygrigorev/model-deployment-workshop
-    description: Workshop materials for deploying ML models
+  - name: toyaikit
+    url: https://github.com/alexeygrigorev/toyaikit
+    description: Minimalistic implementation for LLM-based chat assistants with Tool Use and MCP
     language: Python
-    stars: 890
-    forks: 230
-    updated: Jul 2024
+    stars: 20
+    forks: 3
+    updated: Dec 2025
+
+  - name: au-tomator-lambda
+    url: https://github.com/alexeygrigorev/au-tomator-lambda
+    description: Automatic Slack moderation with AWS Lambda
+    language: Python
+    stars: 3
+    forks: 0
+    updated: Dec 2025
+
+  - name: kids-horror-stories-ru
+    url: https://github.com/alexeygrigorev/kids-horror-stories-ru
+    description: |
+      Daily horror story generator based on images of commonplace
+      objects and published to Spotify
+    language: Python
+    stars: 9
+    forks: 2
+    updated: Dec 2025
+
+  - name: datagen
+    url: https://github.com/alexeygrigorev/datagen
+    description: Generate any tabular dataset using LLMs
+    language: Python
+    stars: 3
+    forks: 1
+    updated: June 2025
+
+  - name: faq
+    url: https://github.com/DataTalksClub/faq
+    description: |
+      FAQ system for DataTalks.Club - all the course questions plus
+      an agent for adding them
+    language: Python
+    stars: 3
+    forks: 1
+    updated: Dec 2025
+
+  - name: ai-data-pipelines
+    url: https://github.com/alexeygrigorev/ai-data-pipelines
+    description: WIP - Data processing pipelines for AI projects
+    language: Python
+    stars: 3
+    forks: 0
+    updated: Dec 2025
+
+  - name: github-project-scorer
+    url: https://github.com/alexeygrigorev/github-project-scorer
+    description: |
+      Analyzes your zoomcamp project and tells you how many points you got
+    language: Python
+    stars: 2
+    forks: 0
+    updated: Sep 2025
+
+  - name: ai-book-generator
+    url: https://github.com/alexeygrigorev/ai-book-generator
+    description: |
+      Uses AI to create a book about any topic in epub, pdf,
+      and audio formats
+    language: Python
+    stars: 1
+    forks: 0
+    updated: Dec 2025
+
+  - name: jaxn
+    url: https://github.com/alexeygrigorev/jaxn
+    description: Streaming JSON parser
+    language: Python
+    stars: 0
+    forks: 0
+    updated: Dec 2025
+
+  - name: mlwiki.org
+    url: https://github.com/alexeygrigorev/mlwiki.org
+    description: |
+      Machine learning wiki maintained since 2013, now migrated to
+      GitHub Pages
+    language: HTML
+    stars: 0
+    forks: 0
+    updated: Dec 2025
+
+  - name: keras-image-helper
+    url: https://github.com/alexeygrigorev/keras-image-helper
+    description: A lightweight library for pre-processing images for pre-trained keras and pytorch models
+    language: Python
+    stars: 13
+    forks: 4
+    updated: Jun 2025
+
+  - name: libbloom-python
+    url: https://github.com/alexeygrigorev/libbloom-python
+    description: FAST bloom filter implementation in C + Python bindings
+    language: C
+    stars: 0
+    forks: 0
+    updated: Mar 2020
+
+  - name: libftrl-python
+    url: https://github.com/alexeygrigorev/libftrl-python
+    description: FAST FTRL implementation in C + Python bindings
+    language: C
+    stars: 123
+    forks: 28
+    updated: June 2019
