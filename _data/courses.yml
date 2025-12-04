@@ -16,7 +16,7 @@ courses:
       - Testing
     stats:
       students: "50+"
-      period: "2024-present"
+      period: "2025-present"
 
   - name: Machine Learning Zoomcamp
     url: https://github.com/DataTalksClub/machine-learning-zoomcamp
