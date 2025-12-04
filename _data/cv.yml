@@ -20,6 +20,30 @@ contact:
 
 
 work_experience:
+  - title: Founder and Community Manager
+    company: DataTalks.Club
+    period: 09.2020 - now 
+    location: Berlin, Germany
+    description: |
+      Lead an online community for data professionals with
+      80,000+ members and 130,000+ newsletter subscribers.
+      
+      Create free educational programs including
+      ML Zoomcamp, Data Engineering Zoomcamp, MLOps Zoomcamp,
+      LLM Zoomcamp and AI Dev Tools Zoomcamp, reaching 100,000+ students
+      worldwide.
+
+      Host weekly podcast interviews with industry
+      experts, organize community events, and maintain open-source
+      course materials on GitHub.
+    technologies:
+      - Entrepreneurship
+      - Marketing
+      - Sales
+      - Talking
+      - Teaching
+      - Python
+      - Vibe coding
   - title: Senior → Principal Data Scientist
     company: OLX Group
     period: 10.2018 - 03.2023

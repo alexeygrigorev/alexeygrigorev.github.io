@@ -1,25 +1,50 @@
 courses:
+  - name: "AI Bootcamp: from RAG to Agents"
+    url: https://maven.com/alexey-grigorev/from-rag-to-agents
+    free: false
+    description: |
+      Build production-ready AI systems from core concepts. Learn
+      LLMs, RAG, agentic flows, testing, evaluation, and monitoring.
+    topics:
+      - LLMs
+      - RAG
+      - OpenAI
+      - PydanticAI
+      - MCP
+      - Grafana
+      - OpenTelemetry
+      - Testing
+    stats:
+      students: "50+"
+      period: "2024-present"
+
   - name: Machine Learning Zoomcamp
     url: https://github.com/DataTalksClub/machine-learning-zoomcamp
     free: true
-    description: "A free 4-month online course covering machine learning engineering. Learn to deploy ML models to production with practical projects."
+    description: |
+      A free 4-month online course covering machine learning
+      engineering. Learn to deploy ML models to production with
+      practical projects.
     topics:
       - Python
-      - Scikit-learn
+      - Scikit-Learn
+      - Docker
+      - FastAPI
       - TensorFlow
       - Keras
-      - Flask
-      - Docker
+      - PyTorch
+      - AWS
       - Kubernetes
     stats:
-      students: "15,000+"
-      rating: 4.9
+      students: "40,000+"
       period: "2021-present"
 
   - name: Data Engineering Zoomcamp
     url: https://github.com/DataTalksClub/data-engineering-zoomcamp
     free: true
-    description: "Free course on data engineering with practical experience building pipelines, working with GCP, Terraform, and more."
+    description: |
+      Free course on data engineering with practical experience
+      building pipelines, working with GCP, Terraform, and more.
     topics:
       - SQL
       - Python
@@ -30,14 +55,15 @@ courses:
       - Kafka
       - dbt
     stats:
-      students: "35,000+"
-      rating: 4.9
+      students: "70,000+"
       period: "2022-present"
 
   - name: MLOps Zoomcamp
     url: https://github.com/DataTalksClub/mlops-zoomcamp
     free: true
-    description: "Learn practical MLOps skills: experiment tracking, workflow orchestration, model deployment, and monitoring."
+    description: |
+      Learn practical MLOps skills: experiment tracking, workflow
+      orchestration, model deployment, and monitoring.
     topics:
       - MLflow
       - Prefect
@@ -46,6 +72,57 @@ courses:
       - Grafana
       - Evidently
     stats:
-      students: "10,000+"
-      rating: 4.8
+      students: "45,000+"
       period: "2022-present"
+
+  - name: LLM Zoomcamp
+    url: https://github.com/DataTalksClub/llm-zoomcamp
+    free: true
+    description: |
+      Free course on Large Language Models and Generative AI.
+      Build RAG systems and LLM applications from scratch.
+    topics:
+      - LLMs
+      - RAG
+      - OpenAI
+      - Elasticsearch
+      - PostgreSQL
+      - Monitoring
+    stats:
+      students: "20,000+"
+      period: "2024-present"
+
+  - name: AI Dev Tools Zoomcamp
+    url: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
+    free: true
+    description: |
+      Write Better Code Faster. Learn to use AI tools to help with
+      coding, from chat applications to coding assistants and agents.
+    topics:
+      - ChatGPT
+      - Claude
+      - GitHub Copilot
+      - Cursor
+      - MCP
+      - CI/CD
+      - n8n
+    stats:
+      students: "10,000+"
+      period: "2025-present"
+
+  - name: AI Agents 7-Day Crash-Course
+    url: https://alexeygrigorev.com/aihero/
+    free: true
+    description: |
+      7-day email course to build a complete AI agent from data
+      ingestion to deployment based on your GitHub project.
+    topics:
+      - OpenAI
+      - Data Ingestion
+      - Chunking
+      - Search
+      - PydanticAI
+      - Streamlit
+    stats:
+      students: "1,500+"
+      period: "2025-present"
