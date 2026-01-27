@@ -1,5 +1,5 @@
 courses:
-  - name: "AI Bootcamp: from RAG to Agents"
+  - name: "AI Engineering Buildcamp: from RAG to Agents"
     url: https://maven.com/alexey-grigorev/from-rag-to-agents
     free: false
     description: |
