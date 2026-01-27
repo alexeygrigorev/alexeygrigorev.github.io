@@ -1,0 +1,18 @@
+<nav class="service-nav">
+  <a href="/services.html" class="service-nav-item {% if page.service == nil or page.service == 'overview' %}active{% endif %}">
+    {% include icons/book-small.html %}
+    All Services
+  </a>
+  <a href="/services/consulting.html" class="service-nav-item {% if page.service == 'consulting' %}active{% endif %}">
+    {% include icons/briefcase-small.html %}
+    Consulting
+  </a>
+  <a href="/services/workshops.html" class="service-nav-item {% if page.service == 'workshops' %}active{% endif %}">
+    {% include icons/graduation-cap-small.html %}
+    Workshops
+  </a>
+  <a href="/services/devrel.html" class="service-nav-item {% if page.service == 'devrel' %}active{% endif %}">
+    {% include icons/star-small.html %}
+    Content
+  </a>
+</nav>

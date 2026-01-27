@@ -1,0 +1,75 @@
+services:
+  consulting:
+    title: Consulting
+    description: |
+      I help companies build and ship AI products. From evaluating your ML systems
+      to designing architectures that scale, I bring practical experience from
+      building ML platforms at OLX and running production systems that serve millions.
+    use_cases:
+      - title: ML Architecture & Infrastructure
+        description: |
+          Design scalable ML platforms and data pipelines. I've built internal
+          ML platforms serving data science teams across large organizations.
+      - title: LLM Evaluation
+        description: |
+          Build robust evaluation frameworks for LLM applications - RAG systems,
+          AI agents, chatbots. Know what to measure and how to measure it.
+      - title: AI Product Strategy
+        description: |
+          Go from idea to production - technical feasibility assessment,
+          roadmap planning, and hands-on execution guidance.
+      - title: Production ML Systems
+        description: |
+          Review and improve existing ML systems for reliability, performance,
+          and maintainability.
+    testimonials: []
+
+  workshops:
+    title: Workshops
+    description: |
+      I deliver hands-on workshops for engineering teams. Drawing from experience
+      creating ML Zoomcamp, LLM Zoomcamp, and AI Dev Tools Zoomcamp - courses
+      taken by 100,000+ students worldwide.
+    use_cases:
+      - title: LLMs & Prompt Engineering
+        description: |
+          Practical deep dives into Large Language Models, RAG (Retrieval-Augmented
+          Generation), and AI agents. Your team will build working systems, not
+          just learn theory.
+      - title: AI Dev Tools
+        description: |
+          Teaching teams to effectively use AI assistants and modern development
+          workflows. From prompt engineering to building custom AI tools.
+      - title: MLOps & LLMOps
+        description: |
+          From model training to deployment and monitoring. Practical approaches
+          for taking ML models to production.
+      - title: Custom Topics
+        description: |
+          Tailored workshops based on your team's specific stack, goals, and
+          skill level. On-site or remote.
+    testimonials: []
+
+  devrel:
+    title: DevRel & Content
+    description: |
+      I create educational content that helps companies reach developers. Courses,
+      tutorials, documentation, videos - whatever format resonates with your audience.
+    use_cases:
+      - title: Online Courses
+        description: |
+          End-to-end course creation. I can deliver curriculum design, scripts,
+          recording, or just the raw course materials - whatever you need.
+      - title: Technical Content
+        description: |
+          Blog posts, tutorials, and documentation that developers actually want
+          to read. Technical depth with clear explanations.
+      - title: Video Content
+        description: |
+          Scripting and producing tech videos, demos, and explainer content.
+          Leverage experience teaching complex topics to diverse audiences.
+      - title: Developer Advocacy Strategy
+        description: |
+          Building content strategy for developer-focused products. What to create,
+          where to publish, and how to measure success.
+    testimonials: []

@@ -1,0 +1,48 @@
+---
+layout: default
+title: Consulting - Alexey Grigorev
+tab: services
+tab_id: tab-services
+service: consulting
+---
+
+{% include service-nav.html %}
+
+{% assign service = site.data.services.services.consulting %}
+<div class="service-page">
+  <div class="service-header">
+    <h1>{{ service.title }}</h1>
+    <p class="service-description">{{ service.description }}</p>
+  </div>
+
+  <div class="use-cases">
+    <h2>What I Can Help With</h2>
+    <div class="use-cases-list">
+      {% for use_case in service.use_cases %}
+      <div class="use-case-card">
+        <h3>{{ use_case.title }}</h3>
+        <p>{{ use_case.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% if service.testimonials and service.testimonials.size > 0 %}
+  <div class="testimonials">
+    <h2>What People Say</h2>
+    <div class="testimonials-list">
+      {% for testimonial in service.testimonials %}
+      <div class="testimonial-card">
+        <p class="testimonial-text">"{{ testimonial.text }}"</p>
+        <div class="testimonial-author">
+          <span class="author-name">{{ testimonial.author }}</span>
+          {% if testimonial.role %}<span class="author-role">{{ testimonial.role }}</span>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% include service-contact.html %}
+</div>

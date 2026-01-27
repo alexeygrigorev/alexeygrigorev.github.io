@@ -2,17 +2,17 @@
 (function() {
   const tabs = document.querySelectorAll('.tab');
   const tabContents = document.querySelectorAll('.tab-content');
-  
+
   tabs.forEach(function(tab) {
     tab.addEventListener('click', function() {
       const targetTab = this.getAttribute('data-tab');
-      
+
       // Update tab buttons
       tabs.forEach(function(t) {
         t.classList.remove('active');
       });
       this.classList.add('active');
-      
+
       // Update tab content
       tabContents.forEach(function(content) {
         content.classList.remove('active');
@@ -20,7 +20,7 @@
       document.getElementById('tab-' + targetTab).classList.add('active');
     });
   });
-  
+
   // Generate contribution graph
   generateContributionGraph();
 })();

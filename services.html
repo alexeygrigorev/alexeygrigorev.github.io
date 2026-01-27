@@ -1,0 +1,32 @@
+---
+layout: default
+title: Services - Alexey Grigorev
+tab: services
+tab_id: tab-services
+service: overview
+---
+
+{% include service-nav.html %}
+
+<div class="services-overview-content">
+  <h1>Services</h1>
+  <p class="intro">I help companies with AI/ML expertise, education, and developer-focused content.</p>
+
+  <div class="services-grid">
+    {% for service in site.data.services.services %}
+    <a href="/services/{{ service[0] }}.html" class="service-card-link">
+      <div class="card service-card">
+        <h2>{{ service[1].title }}</h2>
+        <p>{{ service[1].description }}</p>
+        <div class="use-cases-preview">
+          {% for use_case in service[1].use_cases limit:3 %}
+          <span class="use-case-tag">{{ use_case.title }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+
+  {% include service-contact.html %}
+</div>

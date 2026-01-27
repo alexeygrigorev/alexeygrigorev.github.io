@@ -13,6 +13,10 @@
     Projects
     <span class="counter">{{ site.data.projects.projects.size }}</span>
   </a>
+  <a href="/services.html" class="tab {% if page.tab == 'services' %}active{% endif %}">
+    {% include icons/briefcase-small.html %}
+    Hire Me
+  </a>
   <a href="/cv.html" class="tab {% if page.tab == 'cv' %}active{% endif %}">
     {% include icons/user.html %}
     CV
