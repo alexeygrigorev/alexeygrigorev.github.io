@@ -23,6 +23,14 @@ projects:
     forks: 1900
     updated: Dec 2025
 
+  - name: ai-engineering-field-guide
+    url: https://github.com/alexeygrigorev/ai-engineering-field-guide
+    description: AI engineering interview assignments, take-home challenges, and hiring practices
+    language: HTML
+    stars: 4260
+    forks: 393
+    updated: Jun 2026
+
   - name: project-of-the-week
     url: https://github.com/DataTalksClub/project-of-the-week
     description: 11 mini-courses on different topics - streamlit, fastAPI, github actions, etc
@@ -37,14 +45,6 @@ projects:
     language: HTML
     stars: 236
     forks: 78
-    updated: Dec 2025
-
-  - name: workshops
-    url: https://github.com/alexeygrigorev/workshops
-    description: Workshops about different topics including agents, MCP, deep learning, and more
-    language: Jupyter Notebook
-    stars: 59
-    forks: 15
     updated: Dec 2025
 
   - name: build-your-own-search-engine
@@ -89,14 +89,6 @@ projects:
     forks: 2
     updated: Dec 2025
 
-  - name: datagen
-    url: https://github.com/alexeygrigorev/datagen
-    description: Generate any tabular dataset using LLMs
-    language: Python
-    stars: 3
-    forks: 1
-    updated: June 2025
-
   - name: faq
     url: https://github.com/DataTalksClub/faq
     description: |
@@ -105,14 +97,6 @@ projects:
     language: Python
     stars: 3
     forks: 1
-    updated: Dec 2025
-
-  - name: ai-data-pipelines
-    url: https://github.com/alexeygrigorev/ai-data-pipelines
-    description: WIP - Data processing pipelines for AI projects
-    language: Python
-    stars: 3
-    forks: 0
     updated: Dec 2025
 
   - name: github-project-scorer
@@ -151,14 +135,6 @@ projects:
     stars: 0
     forks: 0
     updated: Dec 2025
-
-  - name: keras-image-helper
-    url: https://github.com/alexeygrigorev/keras-image-helper
-    description: A lightweight library for pre-processing images for pre-trained keras and pytorch models
-    language: Python
-    stars: 13
-    forks: 4
-    updated: Jun 2025
 
   - name: libbloom-python
     url: https://github.com/alexeygrigorev/libbloom-python

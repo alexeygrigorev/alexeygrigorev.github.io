@@ -2,14 +2,13 @@ summary:
   software_engineering_since: 2010
   machine_learning_since: 2012
   skills:
-    - Proficient in Python and AI-assisted programming
-    - Quick prototyping skills
+    - Running a team of agents 24/7
+    - Top 100 among all GitHub users in number of commits
+    - Teaching AI and data to 100k+ people
     - Experience in running production systems
-    - Research experience in academic settings
     - Mentoring and leadership experience
     - Books author, technical reviewer and speaker
     - Kaggle master and competition winner
-    - Open source contributor
 
 contact:
   email: "alexey.s.grigoriev@gmail.com"
@@ -26,7 +25,7 @@ work_experience:
     location: Berlin, Germany
     description: |
       Lead an online community for data professionals with
-      80,000+ members and 130,000+ newsletter subscribers.
+      96,000+ Slack members and 130,000+ newsletter subscribers.
       
       Create free educational programs including
       ML Zoomcamp, Data Engineering Zoomcamp, MLOps Zoomcamp,
@@ -77,7 +76,6 @@ work_experience:
     technologies:
       - Python
       - AWS
-      - Docker
       - Kubernetes
       - Terraform
 
@@ -87,14 +85,10 @@ work_experience_summary:
     role: Data Scientist / Engineer
     location: Berlin, Germany
     technologies:
-      - Scala
       - Python
+      - Scala
       - Spark
-      - PySpark
       - AWS
-      - Luigi
-      - Docker
-      - JavaScript
   - period: "2015 – 2017"
     company: Searchmetrics
     role: Data Scientist
