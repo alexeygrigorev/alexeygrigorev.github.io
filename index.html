@@ -20,7 +20,14 @@ tab_id: tab-overview
       <div class="contact-info">
         {% for item in site.data.overview.online %}
         <div class="contact-item">
+          {% if item.icon_light %}
+          <img class="ic-img ic-light" src="{{ item.icon_light | relative_url }}" alt="" aria-hidden="true">
+          <img class="ic-img ic-dark" src="{{ item.icon_dark | relative_url }}" alt="" aria-hidden="true">
+          {% elsif item.icon_svg %}
+          {% include {{ item.icon_svg }} %}
+          {% else %}
           <i class="{{ item.icon }}"></i>
+          {% endif %}
           <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
         </div>
         {% endfor %}

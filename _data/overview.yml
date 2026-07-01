@@ -3,10 +3,10 @@ intro:
   sponsor_link: https://github.com/sponsors/alexeygrigorev
 
 online:
-  - name: Twitter
+  - name: X
     handle: "@Al_Grigor"
-    url: https://twitter.com/Al_Grigor
-    icon: fa-brands fa-twitter
+    url: https://x.com/Al_Grigor
+    icon: fa-brands fa-x-twitter
   - name: LinkedIn
     handle: agrigorev
     url: https://de.linkedin.com/in/agrigorev
@@ -15,11 +15,16 @@ online:
     handle: alexeygrigorev
     url: https://github.com/alexeygrigorev
     icon: fa-brands fa-github
+  - name: Substack
+    handle: alexeyondata
+    url: https://alexeyondata.substack.com/
+    icon_svg: icons/substack.html
   - name: DataTalks.Club
     handle: datatalks.club
     url: https://datatalks.club
     description: "a place to talk about data!"
-    icon: fa-solid fa-comments
+    icon_light: /assets/images/dtc-mark-black.svg
+    icon_dark: /assets/images/dtc-mark-white.svg
 
 courses:
   - name: "AI Bootcamp: from RAG to Agents"

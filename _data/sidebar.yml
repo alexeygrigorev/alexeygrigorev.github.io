@@ -1,5 +1,6 @@
 name: Alexey Grigorev
 username: alexeygrigorev
+follow_url: https://alexeyondata.substack.com/
 avatar: assets/images/alexey-rag.jpg
 bio: |
   15 years of experience. Teaching AI and Data to 100k+ students.
@@ -32,18 +33,3 @@ organizations:
     badge: DT
   - name: ML Community
     badge: ML
-
-online:
-  - icon: fa-brands fa-twitter
-    text: "@Al_Grigor"
-    link: https://twitter.com/Al_Grigor
-  - icon: fa-brands fa-linkedin
-    text: agrigorev
-    link: https://de.linkedin.com/in/agrigorev
-  - icon: fa-brands fa-github
-    text: alexeygrigorev
-    link: https://github.com/alexeygrigorev
-  - icon: fa-solid fa-comments
-    text: DataTalks.Club
-    link: https://datatalks.club
-    description: a place to talk about data!
