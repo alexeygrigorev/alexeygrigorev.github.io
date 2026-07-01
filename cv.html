@@ -21,8 +21,7 @@ tab_id: tab-cv
 <!-- CV Header -->
 <section class="cv-intro">
   <p>
-    A software engineer with focus on machine learning. I bring data science ideas from early prototypes to production. 
-    This includes problem identification, data collection, model creation, deployment and maintenance.
+    A software engineer with focus on AI &amp; ML. I can take any idea in raw form, validate it and bring it to production. Running DataTalks.Club and teaching AI and Data to 100k+ people.
   </p>
   
   <div class="contact-info">
@@ -44,7 +43,7 @@ tab_id: tab-cv
     </div>
     <div class="contact-item">
       <i class="fa-solid fa-envelope"></i>
-      <span>{{ site.data.cv.contact.email }}</span>
+      <a href="mailto:{{ site.data.cv.contact.email }}">{{ site.data.cv.contact.email }}</a>
     </div>
   </div>
 </section>
@@ -161,28 +160,6 @@ tab_id: tab-cv
           {% include icons/external-link.html %}
         </a>
         <p class="publication-info">{{ book.publisher }}, {{ book.year }}</p>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<!-- Papers -->
-<section>
-  <h2 class="section-title">
-    <i class="fa-solid fa-file-lines"></i>
-    Papers
-  </h2>
-  
-  <div class="publications-list">
-    {% for paper in site.data.cv.publications.papers %}
-    <div class="card publication-card">
-      <div class="publication-header">
-        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer" class="link publication-title">
-          {{ paper.title }}
-          {% include icons/external-link.html %}
-        </a>
-        <p class="publication-info">{{ paper.authors }}. {{ paper.venue }}, {{ paper.year }}</p>
       </div>
     </div>
     {% endfor %}

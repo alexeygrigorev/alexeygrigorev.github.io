@@ -2,7 +2,7 @@ summary:
   software_engineering_since: 2010
   machine_learning_since: 2012
   skills:
-    - Running a team of agents 24/7
+    - Running teams of agents 24/7
     - Top 100 among all GitHub users in number of commits
     - Teaching AI and data to 100k+ people
     - Experience in running production systems
@@ -11,7 +11,7 @@ summary:
     - Kaggle master and competition winner
 
 contact:
-  email: "alexey.s.grigoriev@gmail.com"
+  email: "alexey@datatalks.club"
   linkedin: "http://www.linkedin.com/in/agrigorev"
   github: "https://github.com/alexeygrigorev"
   scholar: "https://scholar.google.com/citations?user=xT1V5UwAAAAJ"
@@ -183,29 +183,10 @@ publications:
       description: ""
 
     - title: Mastering Java for Data Science
-      url: https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science
+      url: https://www.packtpub.com/en-de/product/mastering-java-for-data-science-9781785887390
       publisher: Packt Publishing
       year: 2017
       description: ""
-
-    - title: TensorFlow Deep Learning Projects
-      url: https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects
-      publisher: Packt Publishing
-      year: 2018
-      description: ""
-
-  papers:
-    - title: "Semantification of Identifiers in Mathematics for Better Math Information Retrieval"
-      url: http://dx.doi.org/10.1145/2911451.2911503
-      authors: "Moritz Schubotz, Alexey Grigorev, and others"
-      venue: "SIGIR '16"
-      year: 2016
-
-    - title: "Large-Scale Vandalism Detection with Linear Classifiers"
-      url: http://www.uni-weimar.de/medien/webis/events/wsdm-cup-17/wsdmcup17-papers-final/wsdmcup17-vandalism-detection/grigorev17-notebook.pdf
-      authors: "Alexey Grigorev"
-      venue: "WSDM Cup 2017 Notebook Papers"
-      year: 2017
 
 competitions:
   - name: Home Depot Product Search Relevance
