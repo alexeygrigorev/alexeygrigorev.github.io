@@ -55,11 +55,11 @@ tab_id: tab-projects
       </span>
       <a href="#" class="meta-link">
         {% include icons/star.html %}
-        {{ project.stars | number_with_delimiter: ',' }}
+        <span class="num">{{ project.stars }}</span>
       </a>
       <a href="#" class="meta-link">
         {% include icons/git-fork.html %}
-        {{ project.forks | number_with_delimiter: ',' }}
+        <span class="num">{{ project.forks }}</span>
       </a>
       <span class="updated">Updated {{ project.updated }}</span>
     </div>
@@ -70,4 +70,14 @@ tab_id: tab-projects
 <div style="margin-top: 1rem; text-align: center;">
   <a href="https://github.com/alexeygrigorev/" target="_blank" rel="noopener noreferrer" class="link">See all my projects on GitHub →</a>
 </div>
+
+<script>
+  // Format star/fork counts with thousands separators (e.g. 9700 -> 9,700)
+  document.querySelectorAll('.project-meta .num').forEach(function (el) {
+    var n = parseInt(el.textContent.trim(), 10);
+    if (!isNaN(n)) {
+      el.textContent = n.toLocaleString('en-US');
+    }
+  });
+</script>
 

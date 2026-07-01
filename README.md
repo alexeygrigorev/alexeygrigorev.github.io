@@ -1,66 +1,74 @@
-# Alexey Grigorev - Personal Profile Page
+# Alexey Grigorev — Personal Site
 
-A Jekyll-based static website for Alexey Grigorev's developer profile.
+The personal profile site for Alexey Grigorev (Data Scientist & ML Engineer),
+deployed to [alexeygrigorev.com](https://alexeygrigorev.com).
 
-## Technologies
+It's a static site built with [Rustkyll](https://github.com/alexeygrigorev/rustkyll),
+a Jekyll-compatible static site generator. All content is data-driven from YAML
+files in [`_data/`](./_data), so most edits don't require touching the HTML.
 
-- Jekyll (static site generator)
-- HTML/CSS/JavaScript
-- GitHub Pages compatible
+## Running Locally
 
-## Local Development
+### Using Make (recommended)
 
-### Prerequisites
-
-- Ruby 2.7+ installed
-- Bundler gem installed (`gem install bundler`)
-
-### Setup
-
-```sh
-# Clone the repository
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
-
-# Install dependencies
-bundle install
-
-# Start the development server
-bundle exec jekyll serve
+```bash
+make install   # Download the pinned Rustkyll binary (first time only)
+make serve     # Start the dev server at http://localhost:4000
 ```
 
-The site will be available at `http://localhost:4000`.
+Available make targets:
 
-### Building for Production
+- `make help` — show all available targets
+- `make install` — download the pinned Rustkyll release binary into `.bin/`
+- `make serve` — start the Rustkyll development server
+- `make serve-livereload` — start the server with live reload
+- `make build` — build the production site into `_site/`
+- `make clean` — remove generated files and caches
 
-```sh
-bundle exec jekyll build
+### Manual commands
+
+```bash
+mkdir -p .bin
+curl -fsSL -o .bin/rustkyll \
+  https://github.com/alexeygrigorev/rustkyll/releases/download/v0.4.7/rustkyll-linux-amd64
+chmod +x .bin/rustkyll
+.bin/rustkyll serve
 ```
 
-The built site will be in the `_site` directory.
+## Editing Content
 
-## Deployment
+Most of the site's content lives in YAML data files rather than the HTML:
 
-This site can be deployed to GitHub Pages or any static hosting service.
-
-### GitHub Pages
-
-1. Push to the `main` branch
-2. Go to Settings > Pages
-3. Select "Deploy from a branch" and choose your branch
-4. The site will be available at `https://<username>.github.io/<repo-name>`
+| Page | Data source |
+|------|-------------|
+| Home (`index.html`) | [`_data/overview.yml`](./_data/overview.yml), [`_data/sidebar.yml`](./_data/sidebar.yml) |
+| CV (`cv.html`) | [`_data/cv.yml`](./_data/cv.yml) |
+| Projects (`projects.html`) | [`_data/projects.yml`](./_data/projects.yml), [`_data/language_colors.yml`](./_data/language_colors.yml) |
+| Courses (`courses.html`) | [`_data/courses.yml`](./_data/courses.yml) |
+| Services (`services.html`) | [`_data/services.yml`](./_data/services.yml) |
 
 ## Project Structure
 
 ```
-├── _config.yml          # Jekyll configuration
-├── _layouts/            # Page templates
-├── _includes/           # Reusable components
-├── assets/
-│   ├── css/            # Stylesheets
-│   └── js/             # JavaScript files
+├── _config.yml          # Site configuration
+├── _data/               # YAML content (CV, projects, courses, services, …)
+├── _layouts/            # Page templates (default.html)
+├── _includes/           # Reusable components (header, sidebar, tabs, …)
+├── assets/              # CSS, JS, fonts, images
 ├── public/              # Static assets (favicon, etc.)
-├── index.html           # Main page
-├── Gemfile              # Ruby dependencies
-└── README.md
+├── services/            # Individual service pages (consulting, devrel, workshops)
+├── index.html           # Home page
+├── cv.html              # CV / résumé
+├── projects.html        # Open-source projects
+├── courses.html         # Courses
+├── services.html        # Services overview
+├── CNAME                # Custom domain (alexeygrigorev.com)
+└── Makefile             # Rustkyll build/serve targets
 ```
+
+## Deployment
+
+The site is deployed to GitHub Pages automatically by
+[`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml). On every push
+to `master`, the workflow builds the site with Rustkyll and publishes the
+`_site/` directory to GitHub Pages. No local build step is required.

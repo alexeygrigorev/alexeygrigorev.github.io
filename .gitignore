@@ -1,9 +1,8 @@
-# Jekyll
+# Rustkyll
 _site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-Gemfile.lock
+.rustkyll/
+.rustkyll-manifest.json
+.bin/
 vendor/
 .bundle/
 

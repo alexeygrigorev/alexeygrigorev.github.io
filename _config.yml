@@ -12,11 +12,16 @@ permalink: none
 
 # Exclude from processing
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - node_modules
   - vendor
   - old
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - .bin/
+  - .github/
+  - .gitignore
 
 # Default values
 defaults:
