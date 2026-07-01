@@ -44,12 +44,12 @@ work_experience:
       - Teaching
       - Python
       - Vibe coding
-  - title: Senior → Principal Data Scientist
+  - title: Senior → Lead → Principal Data Scientist
     company: OLX Group
     period: 10.2018 - 03.2023
     location: Berlin, Germany
     roles:
-      - role: Lead / Principal Data Scientist
+      - role: Lead → Principal Data Scientist
         period: 11.2019 - 03.2023
         description: |
           Led the development of OLX Europe’s internal ML platform,
@@ -81,17 +81,11 @@ work_experience:
       - Kubernetes
       - Terraform
 
-  - title: Data Scientist / Engineer
+work_experience_summary:
+  - period: "2017 – 2018"
     company: Simplaex
-    period: 08.2017 - 08.2018
+    role: Data Scientist / Engineer
     location: Berlin, Germany
-    description: |
-      Designed, developed, and maintained large-scale ML
-      infrastructure handling 3B+ daily events from 100M+ unique
-      users. Contributed to multiple ML initiatives, including
-      user profiling, gender and age classification, and
-      funnel modeling to predict click, install, and payment
-      likelihood.
     technologies:
       - Scala
       - Python
@@ -101,8 +95,6 @@ work_experience:
       - Luigi
       - Docker
       - JavaScript
-
-work_experience_summary:
   - period: "2015 – 2017"
     company: Searchmetrics
     role: Data Scientist
@@ -190,6 +182,12 @@ education:
 
 publications:
   books:
+    - title: Machine Learning Bookcamp
+      url: https://mlbookcamp.com/
+      publisher: Manning Publications
+      year: 2021
+      description: ""
+
     - title: Mastering Java for Data Science
       url: https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-data-science
       publisher: Packt Publishing
