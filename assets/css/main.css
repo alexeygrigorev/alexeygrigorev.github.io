@@ -707,9 +707,7 @@ body.dark .graph-day.level-4 {
 }
 
 .project-title {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+  line-height: 1.35;
 }
 
 .project-name {
@@ -718,6 +716,10 @@ body.dark .graph-day.level-4 {
 }
 
 .public-badge {
+  display: inline-block;
+  margin-left: 0.5rem;
+  white-space: nowrap;
+  vertical-align: middle;
   font-size: 0.75rem;
   padding: 0.125rem 0.5rem;
   border-radius: 9999px;
