@@ -24,29 +24,31 @@ services:
           and maintainability.
     testimonials: []
 
-  workshops:
-    title: Workshops
+  training:
+    title: Training
     description: |
-      I deliver hands-on workshops for engineering teams. Drawing from experience
-      creating ML Zoomcamp, LLM Zoomcamp, and AI Dev Tools Zoomcamp - courses
-      taken by 100,000+ students worldwide.
+      I run hands-on AI training for engineering teams and businesses. The
+      sessions draw on my AI Engineering Buildcamp on Maven and the Zoomcamp
+      courses I've created for more than 100,000 learners.
     use_cases:
-      - title: LLMs & Prompt Engineering
+      - title: Teach Your Team AI Engineering
         description: |
-          Practical deep dives into Large Language Models, RAG (Retrieval-Augmented
-          Generation), and AI agents. Your team will build working systems, not
-          just learn theory.
-      - title: AI Dev Tools
+          Build useful AI applications with your team, from retrieval and agents
+          to testing, evaluation, and monitoring. Work through a real use case
+          so the team leaves with a working system.
+      - title: Be Effective with AI Coding Tools
         description: |
-          Teaching teams to effectively use AI assistants and modern development
-          workflows. From prompt engineering to building custom AI tools.
-      - title: MLOps & LLMOps
+          Help developers use coding assistants and agents in their daily work.
+          Practice planning, reviewing, and testing AI-assisted changes in a
+          workflow your team can keep using.
+      - title: Automate Your Business with AI
         description: |
-          From model training to deployment and monitoring. Practical approaches
-          for taking ML models to production.
+          Find a repetitive workflow worth automating, then build a practical
+          solution with AI tools and agents. Focus on connecting your data and
+          tools, checking results, and keeping people in control.
       - title: Custom Topics
         description: |
-          Tailored workshops based on your team's specific stack, goals, and
+          Tailored training based on your team's specific stack, goals, and
           skill level. On-site or remote.
     testimonials: []
 

@@ -1462,6 +1462,12 @@ section:last-child {
   line-height: 1.6;
 }
 
+.training-course-link {
+  margin-top: 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
 .use-cases h2,
 .testimonials h2,
 .service-contact h3 {

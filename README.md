@@ -56,7 +56,7 @@ Most of the site's content lives in YAML data files rather than the HTML:
 ├── _includes/           # Reusable components (header, sidebar, tabs, …)
 ├── assets/              # CSS, JS, fonts, images
 ├── public/              # Static assets (favicon, etc.)
-├── services/            # Individual service pages (consulting, devrel, workshops)
+├── services/            # Individual service pages (consulting, devrel, training)
 ├── index.html           # Home page
 ├── cv.html              # CV / résumé
 ├── projects.html        # Open-source projects
